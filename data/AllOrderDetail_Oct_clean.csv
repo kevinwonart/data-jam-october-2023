@@ -1,0 +1,1020 @@
+Location,Order Id,Order #,Checks,Opened,# of Guests,Table,Revenue Center,Dining Area,Service,Dining Options,Discount Amount,Amount,Tax,Tip,Gratuity,Total,Voided,Paid,Closed,Duration (Opened to Paid),Order Source
+3401 Harrisburg Boulevard Suite A,800000005410978908,2,2,10/1/23 12:01 PM,1,,Dining Room,,,,0.00,18.00,1.84,2.00,0.00,21.84,false,10/1/23 12:07 PM,10/1/23 12:07 PM,00:05:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005412356548,3,3,10/1/23 12:33 PM,1,,Dining Room,,,,0.00,18.00,1.84,3.00,0.00,22.84,false,10/1/23 12:39 PM,10/1/23 12:39 PM,00:06:08,In Store
+3401 Harrisburg Boulevard Suite A,800000005412838060,1,1,10/1/23 11:51 AM,1,,Dining Room,,,,0.00,12.00,1.23,1.80,0.00,15.03,false,10/1/23 12:45 PM,10/1/23 12:45 PM,00:54:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005413196378,4,4,10/1/23 12:46 PM,1,,Dining Room,,,,0.00,58.00,5.95,12.76,0.00,76.71,false,10/1/23 2:17 PM,10/1/23 2:17 PM,01:31:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005413758423,6,6,10/1/23 1:06 PM,1,,Dining Room,,,,0.00,18.00,1.84,3.60,0.00,23.44,false,10/1/23 1:12 PM,10/1/23 1:12 PM,00:05:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005413931617,7,7,10/1/23 1:09 PM,1,,None,,,,0.00,34.00,3.49,6.80,0.00,44.29,false,10/1/23 1:14 PM,10/1/23 1:14 PM,00:05:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005413955495,8,8,10/1/23 1:10 PM,1,,None,,,,0.00,12.00,1.23,1.00,0.00,14.23,false,10/1/23 1:17 PM,10/1/23 1:17 PM,00:06:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005414240349,11,11,10/1/23 1:17 PM,1,,Dining Room,,,,0.00,16.00,1.65,2.40,0.00,20.05,false,10/1/23 1:48 PM,10/1/23 1:48 PM,00:31:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005414370060,10,10,10/1/23 1:14 PM,1,,Dining Room,,,,0.00,12.00,1.23,2.40,0.00,15.63,false,10/1/23 1:21 PM,10/1/23 1:21 PM,00:06:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005414810564,5,5,10/1/23 12:54 PM,1,,Dining Room,,,,0.00,12.00,1.23,2.64,0.00,15.87,false,10/1/23 1:32 PM,10/1/23 1:32 PM,00:37:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005414976998,13,13,10/1/23 1:34 PM,1,,Dining Room,,,,0.00,9.00,0.93,1.98,0.00,11.91,false,10/1/23 2:22 PM,10/1/23 2:22 PM,00:47:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005415196074,12,12,10/1/23 1:21 PM,1,,Dining Room,,,,0.00,6.00,0.62,1.20,0.00,7.82,false,10/1/23 2:24 PM,10/1/23 2:24 PM,01:02:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005416193237,16,16,10/1/23 1:49 PM,1,,Dining Room,,,,0.00,6.00,0.62,0.00,0.00,6.62,false,10/1/23 2:07 PM,10/1/23 2:07 PM,00:18:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005416340588,17,17,10/1/23 2:07 PM,1,,Dining Room,,,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/1/23 2:10 PM,10/1/23 2:10 PM,00:02:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005416932347,15,15,10/1/23 1:41 PM,1,,Dining Room,,,,0.00,20.00,2.04,0.00,0.00,22.04,false,10/1/23 2:25 PM,10/1/23 2:25 PM,00:43:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005417285301,20,20,10/1/23 2:24 PM,1,,Dining Room,,,,0.00,54.00,5.53,11.88,0.00,71.41,false,10/1/23 3:26 PM,10/1/23 3:26 PM,01:01:10,In Store
+3401 Harrisburg Boulevard Suite A,800000005417455346,9,9,10/1/23 1:11 PM,1,,None,,,,0.00,6.00,0.62,1.20,0.00,7.82,false,10/1/23 2:44 PM,10/1/23 2:44 PM,01:32:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005418095448,21,21,10/1/23 2:25 PM,1,,Dining Room,,,,0.00,3.00,0.31,0.66,0.00,3.97,false,10/1/23 2:56 PM,10/1/23 2:56 PM,00:30:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005418363560,24,24,10/1/23 3:02 PM,1,,None,,,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/1/23 3:09 PM,10/1/23 3:09 PM,00:06:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005418594486,18,18,10/1/23 2:15 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/1/23 3:09 PM,10/1/23 3:09 PM,00:54:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005418790463,25,25,10/1/23 3:14 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/1/23 3:14 PM,10/1/23 3:14 PM,00:00:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005418818655,23,23,10/1/23 3:01 PM,1,,Dining Room,,,,0.00,67.00,6.39,13.40,0.00,86.79,false,10/1/23 4:14 PM,10/1/23 4:14 PM,01:12:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005418941677,26,26,10/1/23 3:16 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/1/23 3:18 PM,10/1/23 3:18 PM,00:01:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005419244616,27,27,10/1/23 3:25 PM,1,,Dining Room,,,,0.00,41.00,4.19,8.20,0.00,53.39,false,10/1/23 4:56 PM,10/1/23 4:56 PM,01:31:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005419321781,30,30,10/1/23 3:27 PM,1,,Dining Room,,,,0.00,20.00,2.06,0.00,0.00,22.06,false,10/1/23 3:34 PM,10/1/23 3:34 PM,00:07:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005419390825,28,28,10/1/23 3:26 PM,1,,None,,,,0.00,30.00,3.08,6.60,0.00,39.68,false,10/1/23 5:15 PM,10/1/23 5:15 PM,01:49:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005419544165,3001,3001,10/1/23 3:34 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/2/23 12:05 AM,10/2/23 12:05 AM,08:30:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005419555124,33,33,10/1/23 3:35 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/1/23 3:35 PM,10/1/23 3:35 PM,00:00:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005419873870,34,34,10/1/23 3:36 PM,1,,Dining Room,,,,0.00,3.00,0.31,0.45,0.00,3.76,false,10/1/23 3:49 PM,10/1/23 3:49 PM,00:13:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005420273517,31,31,10/1/23 3:31 PM,1,,None,,,,0.00,12.00,1.23,5.00,0.00,18.23,false,10/1/23 5:37 PM,10/1/23 5:37 PM,02:06:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005420474523,35,35,10/1/23 3:55 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/1/23 4:00 PM,10/1/23 4:00 PM,00:04:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005420584004,38,38,10/1/23 4:02 PM,1,,Dining Room,,,,0.00,15.00,1.53,0.00,0.00,16.53,false,10/1/23 4:03 PM,10/1/23 4:03 PM,00:00:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005421071396,39,39,10/1/23 4:14 PM,1,,Dining Room,,,,3.00,9.00,0.90,2.40,0.00,12.30,false,10/1/23 4:19 PM,10/1/23 4:19 PM,00:04:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005421245153,36,36,10/1/23 3:55 PM,1,,None,,,,6.50,39.50,4.05,10.12,0.00,53.67,false,10/1/23 8:07 PM,10/1/23 8:07 PM,04:11:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005421376520,3002,3002,10/1/23 4:19 PM,1,,Dining Room,,,,4.50,13.50,1.38,0.00,0.00,14.88,false,10/1/23 4:23 PM,10/1/23 4:23 PM,00:04:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005421748160,42,42,10/1/23 4:33 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.20,0.00,10.02,false,10/1/23 5:46 PM,10/1/23 5:46 PM,01:13:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005422456855,43,43,10/1/23 4:33 PM,1,,Dining Room,,,,7.50,38.50,3.98,5.55,0.00,48.03,false,10/1/23 7:48 PM,10/1/23 7:48 PM,03:15:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005422515274,44,44,10/1/23 4:52 PM,1,,Dining Room,,,,4.50,13.50,1.38,2.70,0.00,17.58,false,10/1/23 4:53 PM,10/1/23 4:53 PM,00:00:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005422681969,45,45,10/1/23 4:54 PM,1,,Dining Room,,,,9.00,27.00,2.74,5.40,0.00,35.14,false,10/1/23 5:31 PM,10/1/23 5:31 PM,00:36:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005422833321,46,46,10/1/23 4:57 PM,1,,Dining Room,,,,0.00,15.00,1.53,0.00,0.00,16.53,false,10/1/23 5:01 PM,10/1/23 5:01 PM,00:03:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005423392613,47,47,10/1/23 5:13 PM,1,,None,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/1/23 5:14 PM,10/1/23 5:14 PM,00:01:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005423422507,48,"48, 113",10/1/23 5:15 PM,1,,None,,,,68.00,36.00,3.69,5.40,0.00,45.09,false,10/1/23 8:23 PM,10/1/23 8:23 PM,03:08:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005423588461,50,50,10/1/23 5:19 PM,1,,Dining Room,,,,0.00,3.00,0.31,0.00,0.00,3.31,false,10/1/23 5:19 PM,10/1/23 5:19 PM,00:00:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005423705136,51,51,10/1/23 5:20 PM,1,,Dining Room,,,,0.00,3.00,0.31,0.45,0.00,3.76,false,10/1/23 5:22 PM,10/1/23 5:22 PM,00:02:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005423763401,53,53,10/1/23 5:23 PM,1,,Dining Room,,,,8.00,24.00,2.46,7.04,0.00,33.50,false,10/1/23 6:06 PM,10/1/23 6:06 PM,00:43:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005424950507,55,55,10/1/23 5:49 PM,1,,Dining Room,,,,0.00,59.00,6.05,8.85,0.00,73.90,false,10/1/23 5:58 PM,10/1/23 5:58 PM,00:08:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005425182902,56,56,10/1/23 5:58 PM,1,,Dining Room,,,,0.00,12.00,1.23,1.80,0.00,15.03,false,10/1/23 6:05 PM,10/1/23 6:05 PM,00:07:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005425445185,57,57,10/1/23 6:04 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.53,0.00,0.00,16.53,false,10/1/23 6:05 PM,10/1/23 6:05 PM,00:00:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005425608238,59,59,10/1/23 6:08 PM,1,,Dining Room,,Dinner,,0.00,58.00,5.95,0.00,0.00,63.95,false,10/1/23 8:25 PM,10/1/23 8:25 PM,02:17:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005425825920,41,41,10/1/23 4:20 PM,1,,None,,,,0.00,16.00,1.64,3.20,0.00,20.84,false,10/1/23 6:15 PM,10/1/23 6:15 PM,01:54:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005426562750,3003,3003,10/1/23 6:18 PM,1,,Dining Room,,Dinner,,0.00,29.00,2.97,4.35,0.00,36.32,false,10/1/23 6:37 PM,10/1/23 6:37 PM,00:19:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005426905746,64,64,10/1/23 6:41 PM,1,,Dining Room,,Dinner,,0.00,6.00,0.62,1.32,0.00,7.94,false,10/1/23 6:43 PM,10/1/23 6:43 PM,00:01:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005426909539,65,65,10/1/23 6:42 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/1/23 7:39 PM,10/1/23 7:39 PM,00:56:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005426985169,67,67,10/1/23 6:43 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,0.00,0.00,17.64,false,10/1/23 6:45 PM,10/1/23 6:45 PM,00:02:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005427010543,68,68,10/1/23 6:44 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,6.00,0.00,39.08,false,10/1/23 6:46 PM,10/1/23 6:46 PM,00:02:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005427043384,70,70,10/1/23 6:46 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/1/23 6:46 PM,10/1/23 6:46 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005427082592,71,71,10/1/23 6:47 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/1/23 6:47 PM,10/1/23 6:47 PM,00:00:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005427118287,69,69,10/1/23 6:46 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,3.52,0.00,21.16,false,10/1/23 7:46 PM,10/1/23 7:46 PM,01:00:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005427175316,73,73,10/1/23 6:49 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,6.00,0.00,39.08,false,10/1/23 6:50 PM,10/1/23 6:50 PM,00:01:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005427204995,72,72,10/1/23 6:48 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,4.40,0.00,26.44,false,10/1/23 7:44 PM,10/1/23 7:44 PM,00:55:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005427221178,75,75,10/1/23 6:51 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/1/23 6:54 PM,10/1/23 6:54 PM,00:03:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005427251858,74,74,10/1/23 6:51 PM,1,,Dining Room,,Dinner,,0.00,25.00,2.56,0.00,0.00,27.56,false,10/1/23 6:52 PM,10/1/23 6:52 PM,00:01:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005427334242,76,76,10/1/23 6:54 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/1/23 6:54 PM,10/1/23 6:54 PM,00:00:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005427556671,78,78,10/1/23 6:58 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,6.60,0.00,39.68,false,10/1/23 7:53 PM,10/1/23 7:53 PM,00:55:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005427564599,79,79,10/1/23 7:01 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,4.00,0.00,26.04,false,10/1/23 7:54 PM,10/1/23 7:54 PM,00:53:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005428062645,84,84,10/1/23 7:15 PM,1,,Dining Room,,Dinner,,0.00,6.00,0.62,0.00,0.00,6.62,false,10/1/23 7:16 PM,10/1/23 7:16 PM,00:00:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005428245432,87,87,10/1/23 7:21 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,1.00,0.00,5.41,false,10/1/23 7:22 PM,10/1/23 7:22 PM,00:00:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005428248071,83,83,10/1/23 7:13 PM,1,,Dining Room,,Dinner,,0.00,9.00,0.92,0.00,0.00,9.92,false,10/1/23 7:22 PM,10/1/23 7:22 PM,00:08:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005428290834,86,86,10/1/23 7:19 PM,1,,None,,Dinner,,0.00,19.00,1.95,3.80,0.00,24.75,false,10/1/23 7:23 PM,10/1/23 7:23 PM,00:03:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005428299592,90,90,10/1/23 7:22 PM,1,,Dining Room,,Dinner,,0.00,25.00,2.56,3.75,0.00,31.31,false,10/1/23 7:26 PM,10/1/23 7:26 PM,00:03:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005428339902,92,92,10/1/23 7:24 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/2/23 12:05 AM,10/2/23 12:05 AM,04:40:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005428370534,91,91,10/1/23 7:23 PM,1,,None,,Dinner,,0.00,37.00,3.79,8.14,0.00,48.93,false,10/1/23 9:36 PM,10/1/23 9:36 PM,02:13:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005428376965,93,93,10/1/23 7:25 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,3.52,0.00,21.16,false,10/1/23 7:26 PM,10/1/23 7:26 PM,00:00:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005428467966,88,88,10/1/23 7:22 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,2.13,0.00,33.00,false,10/1/23 7:34 PM,10/1/23 7:34 PM,00:12:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005428494001,98,98,10/1/23 7:29 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/1/23 7:29 PM,10/1/23 7:29 PM,00:00:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005428739175,96,96,10/1/23 7:26 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/1/23 7:38 PM,10/1/23 7:38 PM,00:12:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005428790634,101,101,10/1/23 7:39 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/1/23 7:40 PM,10/1/23 7:40 PM,00:01:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005428850437,100,100,10/1/23 7:36 PM,1,,Dining Room,,Dinner,,0.00,27.00,2.77,3.00,0.00,32.77,false,10/1/23 7:42 PM,10/1/23 7:42 PM,00:05:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005428929785,102,102,10/1/23 7:43 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/1/23 7:45 PM,10/1/23 7:45 PM,00:01:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005429124483,106,106,10/1/23 7:51 PM,1,,Dining Room,,Dinner,,0.00,44.00,4.49,8.80,0.00,57.29,false,10/1/23 8:24 PM,10/1/23 8:24 PM,00:33:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005429128741,105,105,10/1/23 7:46 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,0.00,0.00,33.08,false,10/1/23 7:51 PM,10/1/23 7:51 PM,00:05:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005429238276,107,107,10/1/23 7:53 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.67,5.72,0.00,34.39,false,10/1/23 7:57 PM,10/1/23 7:57 PM,00:03:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005429288099,110,110,10/1/23 7:57 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.23,2.64,0.00,15.87,false,10/1/23 8:00 PM,10/1/23 8:00 PM,00:03:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005429453657,111,111,10/1/23 8:00 PM,1,,Dining Room,,Dinner,,0.00,32.00,3.27,0.00,0.00,35.27,false,10/1/23 8:05 PM,10/1/23 8:05 PM,00:04:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005430134965,115,115,10/1/23 8:25 PM,1,,Dining Room,,Dinner,,0.00,22.00,2.26,4.40,0.00,28.66,false,10/1/23 8:34 PM,10/1/23 8:34 PM,00:08:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005430248119,116,116,10/1/23 8:34 PM,1,,Dining Room,,Dinner,,0.00,103.00,10.57,0.00,0.00,113.57,false,10/1/23 10:09 PM,10/1/23 10:09 PM,01:35:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005430424575,117,117,10/1/23 8:39 PM,1,,Dining Room,,Dinner,,0.00,75.00,7.70,10.30,0.00,93.00,false,10/1/23 10:56 PM,10/1/23 10:56 PM,02:16:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005430467102,118,118,10/1/23 8:48 PM,1,,Dining Room,,Dinner,,0.00,45.00,4.62,8.00,0.00,57.62,false,10/1/23 9:16 PM,10/1/23 9:16 PM,00:27:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005430478696,119,119,10/1/23 8:51 PM,1,,Dining Room,,Dinner,,0.00,24.00,1.98,4.80,0.00,30.78,false,10/1/23 10:08 PM,10/1/23 10:08 PM,01:17:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005430608193,120,120,10/1/23 8:51 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/1/23 8:59 PM,10/1/23 8:59 PM,00:07:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005430709458,122,122,10/1/23 8:59 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.24,1.80,0.00,15.04,false,10/1/23 9:05 PM,10/1/23 9:05 PM,00:06:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005430838249,125,125,10/1/23 9:12 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.23,0.00,0.00,13.23,false,10/1/23 9:13 PM,10/1/23 9:13 PM,00:00:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005430960651,126,126,10/1/23 9:17 PM,1,,Dining Room,,Dinner,,0.00,23.00,2.35,0.00,0.00,25.35,false,10/1/23 9:21 PM,10/1/23 9:21 PM,00:03:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005430966699,127,127,10/1/23 9:19 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/1/23 9:28 PM,10/1/23 9:28 PM,00:08:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005431073787,128,128,10/1/23 9:21 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.53,3.00,0.00,19.53,false,10/2/23 12:03 AM,10/2/23 12:03 AM,02:42:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005431512071,129,129,10/1/23 9:29 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/1/23 10:08 PM,10/1/23 10:08 PM,00:38:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005431563119,131,131,10/1/23 10:13 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,20.00,0.00,53.08,false,10/1/23 11:59 PM,10/1/23 11:59 PM,01:45:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005431571902,132,132,10/1/23 10:14 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,7.00,0.00,29.04,false,10/1/23 11:56 PM,10/1/23 11:56 PM,01:41:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005431592110,130,130,10/1/23 9:36 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.53,2.00,0.00,18.53,false,10/1/23 10:26 PM,10/1/23 10:26 PM,00:49:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005431939120,134,134,10/1/23 11:13 PM,1,,Dining Room,,,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/1/23 11:15 PM,10/1/23 11:15 PM,00:01:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005432066598,136,136,10/1/23 11:47 PM,1,,Dining Room,,,,0.00,6.00,0.62,1.20,0.00,7.82,false,10/1/23 11:48 PM,10/1/23 11:48 PM,00:00:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005441880450,2,2,10/2/23 4:32 PM,1,,Dining Room,,,,0.00,8.00,0.82,5.00,0.00,13.82,false,10/2/23 4:51 PM,10/2/23 4:51 PM,00:18:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005441974763,3,3,10/2/23 4:33 PM,1,,Dining Room,,,,0.00,15.00,1.54,3.00,0.00,19.54,false,10/2/23 5:38 PM,10/2/23 5:38 PM,01:05:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005441989244,4,4,10/2/23 4:37 PM,1,,Dining Room,,,,0.00,29.00,2.98,5.80,0.00,37.78,false,10/2/23 6:05 PM,10/2/23 6:05 PM,01:27:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005442538934,5,5,10/2/23 5:00 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/2/23 6:05 PM,10/2/23 6:05 PM,01:04:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005443075405,8,8,10/2/23 5:20 PM,1,,Dining Room,,,,0.00,15.00,1.54,3.30,0.00,19.84,false,10/2/23 5:43 PM,10/2/23 5:43 PM,00:23:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005443183715,6,6,10/2/23 5:00 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/2/23 5:42 PM,10/2/23 5:42 PM,00:41:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005443653507,10,10,10/2/23 5:38 PM,1,,Dining Room,,,,10.50,31.50,3.21,9.24,0.00,43.95,false,10/2/23 6:16 PM,10/2/23 6:16 PM,00:38:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005446139147,14,14,10/2/23 7:03 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/2/23 7:04 PM,10/2/23 7:04 PM,00:00:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005448093421,15,15,10/2/23 8:27 PM,1,,Dining Room,,Dinner,,0.00,18.00,1.84,2.70,0.00,22.54,false,10/2/23 8:28 PM,10/2/23 8:28 PM,00:00:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005448184864,16,16,10/2/23 8:31 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/2/23 9:40 PM,10/2/23 9:40 PM,01:08:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005448956907,18,18,10/2/23 9:27 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/2/23 9:27 PM,10/2/23 9:27 PM,00:00:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005449115860,19,19,10/2/23 9:27 PM,1,,Dining Room,,Dinner,,22.00,0.00,0.00,0.00,0.00,0.00,false,10/2/23 9:42 PM,10/2/23 9:42 PM,00:14:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005455722450,1,1,10/3/23 12:54 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/3/23 12:54 PM,10/3/23 12:54 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005497853029,3001,3001,10/5/23 12:00 PM,1,,Dining Room,,,,0.00,24.00,2.46,3.60,0.00,30.06,false,10/5/23 1:00 PM,10/5/23 1:00 PM,01:00:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005498170690,3,3,10/5/23 12:06 PM,1,,Dining Room,,,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/5/23 12:11 PM,10/5/23 12:11 PM,00:04:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005498278764,4,4,10/5/23 12:12 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/5/23 12:15 PM,10/5/23 12:15 PM,00:02:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005498787663,5,5,10/5/23 12:17 PM,1,,Dining Room,,,,0.00,64.00,6.56,12.80,0.00,83.36,false,10/5/23 12:33 PM,10/5/23 12:33 PM,00:16:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005499321283,7,7,10/5/23 12:50 PM,1,,Dining Room,,,,0.00,17.00,1.74,0.00,0.00,18.74,false,10/5/23 12:51 PM,10/5/23 12:51 PM,00:00:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005499491624,9,9,10/5/23 12:57 PM,1,,Dining Room,,,,0.00,5.00,0.51,10.00,0.00,15.51,false,10/5/23 2:17 PM,10/5/23 2:17 PM,01:20:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005501189575,8,8,10/5/23 12:51 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/5/23 2:06 PM,10/5/23 2:06 PM,01:15:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005501271689,12,12,10/5/23 2:09 PM,1,,None,,,,0.00,12.00,1.23,1.80,0.00,15.03,false,10/5/23 2:09 PM,10/5/23 2:09 PM,00:00:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005501410265,13,13,10/5/23 2:14 PM,1,,Dining Room,,,,0.00,61.00,6.28,100.00,0.00,167.28,false,10/5/23 3:02 PM,10/5/23 3:02 PM,00:47:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005501752891,14,14,10/5/23 2:15 PM,1,,Dining Room,,,,0.00,11.00,1.13,1.65,0.00,13.78,false,10/5/23 2:29 PM,10/5/23 2:29 PM,00:14:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005502531125,16,16,10/5/23 3:03 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/5/23 3:28 PM,10/5/23 3:28 PM,00:24:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005502900221,17,17,10/5/23 3:17 PM,1,,Dining Room,,,,0.00,18.00,1.84,2.70,0.00,22.54,false,10/5/23 3:25 PM,10/5/23 3:25 PM,00:08:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005502941026,18,18,10/5/23 3:21 PM,1,,Dining Room,,,,0.00,36.00,3.70,0.00,0.00,39.70,false,10/5/23 3:23 PM,10/5/23 3:23 PM,00:02:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005503838227,19,19,10/5/23 3:32 PM,1,,Dining Room,,,,0.00,6.00,0.62,0.90,0.00,7.52,false,10/5/23 4:00 PM,10/5/23 4:00 PM,00:27:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005503946630,21,21,10/5/23 4:03 PM,1,,Dining Room,,,,0.00,53.00,5.43,7.95,0.00,66.38,false,10/5/23 6:33 PM,10/5/23 6:33 PM,02:30:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005503970045,20,20,10/5/23 4:00 PM,1,,Dining Room,,,,0.00,5.00,0.51,2.00,0.00,7.51,false,10/5/23 4:04 PM,10/5/23 4:04 PM,00:04:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005504000395,23,23,10/5/23 4:04 PM,1,,Dining Room,,,,0.00,6.00,0.62,1.11,0.00,7.73,false,10/5/23 4:05 PM,10/5/23 4:05 PM,00:00:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005504548497,25,25,10/5/23 4:22 PM,1,,Dining Room,,,,0.00,12.00,1.24,2.40,0.00,15.64,false,10/5/23 4:24 PM,10/5/23 4:24 PM,00:01:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005505389130,24,24,10/5/23 4:05 PM,1,,Dining Room,,,,0.00,15.00,1.53,0.00,0.00,16.53,false,10/5/23 4:49 PM,10/5/23 4:49 PM,00:43:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005505451178,22,22,10/5/23 4:03 PM,1,,Dining Room,,,,0.00,30.00,3.08,4.50,0.00,37.58,false,10/5/23 6:41 PM,10/5/23 6:41 PM,02:37:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005505607252,28,28,10/5/23 4:51 PM,1,,Dining Room,,,,0.00,12.00,1.23,0.00,0.00,13.23,false,10/5/23 4:55 PM,10/5/23 4:55 PM,00:04:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005506119336,29,29,10/5/23 4:55 PM,1,,Dining Room,,,,0.00,62.00,6.10,9.30,0.00,77.40,false,10/5/23 6:19 PM,10/5/23 6:19 PM,01:24:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005508160276,33,33,10/5/23 5:40 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/5/23 5:56 PM,10/5/23 5:56 PM,00:15:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005508244598,34,34,10/5/23 5:56 PM,1,,Dining Room,,,,0.00,13.00,1.33,2.60,0.00,16.93,false,10/5/23 7:24 PM,10/5/23 7:24 PM,01:28:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005508275228,35,35,10/5/23 5:56 PM,1,,Dining Room,,,,0.00,6.00,0.62,0.00,0.00,6.62,false,10/5/23 5:56 PM,10/5/23 5:56 PM,00:00:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005508639325,36,36,10/5/23 6:03 PM,1,,Dining Room,,Dinner,,0.00,42.00,4.30,8.40,0.00,54.70,false,10/5/23 6:55 PM,10/5/23 6:55 PM,00:51:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005509992422,37,37,10/5/23 6:04 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/5/23 7:59 PM,10/5/23 7:59 PM,01:55:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005510364154,40,40,10/5/23 6:33 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,3.00,0.00,14.02,false,10/5/23 6:45 PM,10/5/23 6:45 PM,00:11:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005510387452,39,39,10/5/23 6:32 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.75,0.00,6.26,false,10/5/23 6:45 PM,10/5/23 6:45 PM,00:13:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005510428089,38,38,10/5/23 6:19 PM,1,,Dining Room,,Dinner,,0.00,6.00,0.62,1.32,0.00,7.94,false,10/5/23 6:41 PM,10/5/23 6:41 PM,00:21:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005510712793,42,42,10/5/23 6:46 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,0.00,0.00,33.08,false,10/5/23 6:47 PM,10/5/23 6:47 PM,00:01:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005510773571,44,44,10/5/23 6:48 PM,1,,Dining Room,,Dinner,,0.00,18.00,1.84,0.00,0.00,19.84,false,10/5/23 7:06 PM,10/5/23 7:06 PM,00:18:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005511099013,46,46,10/5/23 6:55 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.06,0.00,0.00,22.06,false,10/5/23 7:41 PM,10/5/23 7:41 PM,00:45:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005511168326,47,47,10/5/23 6:55 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,1.10,0.00,6.61,false,10/5/23 6:57 PM,10/5/23 6:57 PM,00:01:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005511209165,48,48,10/5/23 6:57 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/5/23 7:22 PM,10/5/23 7:22 PM,00:25:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005511265292,50,50,10/5/23 6:58 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,0.00,0.00,33.08,false,10/5/23 6:59 PM,10/5/23 6:59 PM,00:00:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005511378745,51,51,10/5/23 7:01 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.53,15.00,0.00,31.53,false,10/5/23 7:24 PM,10/5/23 7:24 PM,00:23:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005511486537,52,52,10/5/23 7:02 PM,1,,Dining Room,,Dinner,,0.00,22.00,2.26,0.00,0.00,24.26,false,10/5/23 7:03 PM,10/5/23 7:03 PM,00:01:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005511864250,54,54,10/5/23 7:11 PM,1,,Dining Room,,Dinner,,5.00,67.00,6.65,14.40,0.00,88.05,false,10/5/23 10:26 PM,10/5/23 10:26 PM,03:15:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005511884857,5001,5001,10/5/23 7:12 PM,1,,Dining Room,,Dinner,,7.25,55.75,5.12,12.60,0.00,73.47,false,10/5/23 10:25 PM,10/5/23 10:25 PM,03:12:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005511998981,53,53,10/5/23 7:09 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/5/23 7:16 PM,10/5/23 7:16 PM,00:07:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005512097925,57,57,10/5/23 7:16 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,2.42,0.00,14.55,false,10/5/23 7:18 PM,10/5/23 7:18 PM,00:01:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005512336864,58,58,10/5/23 7:21 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/5/23 7:23 PM,10/5/23 7:23 PM,00:01:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005512497132,60,60,10/5/23 7:24 PM,1,,Dining Room,,Dinner,,0.00,41.00,4.21,8.20,0.00,53.41,false,10/5/23 9:17 PM,10/5/23 9:17 PM,01:53:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005512722725,63,63,10/5/23 7:31 PM,1,,Dining Room,,Dinner,,9.00,55.00,4.85,10.00,0.00,69.85,false,10/5/23 10:35 PM,10/5/23 10:35 PM,03:03:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005513364390,65,65,10/5/23 7:44 PM,1,,Dining Room,,Dinner,,0.00,50.00,5.12,2.50,0.00,57.62,false,10/5/23 9:16 PM,10/5/23 9:16 PM,01:32:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005513454662,66,66,10/5/23 7:49 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.24,2.40,0.00,15.64,false,10/5/23 7:50 PM,10/5/23 7:50 PM,00:01:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005513692806,61,61,10/5/23 7:24 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/5/23 7:56 PM,10/5/23 7:56 PM,00:31:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005514163454,71,71,10/5/23 8:08 PM,1,,None,,Dinner,,9.00,27.00,2.76,8.00,0.00,37.76,false,10/5/23 10:03 PM,10/5/23 10:03 PM,01:54:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005514590478,73,73,10/5/23 8:21 PM,1,,Dining Room,,Dinner,,0.00,32.00,3.28,0.00,0.00,35.28,false,10/5/23 8:21 PM,10/5/23 8:21 PM,00:00:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005514906451,75,75,10/5/23 8:29 PM,1,,None,,Dinner,,7.50,22.50,2.30,6.00,0.00,30.80,false,10/5/23 10:01 PM,10/5/23 10:01 PM,01:32:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005515157159,77,77,10/5/23 8:39 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/5/23 9:33 PM,10/5/23 9:33 PM,00:54:10,In Store
+3401 Harrisburg Boulevard Suite A,800000005515201440,78,78,10/5/23 8:39 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,2.42,0.00,14.55,false,10/5/23 11:33 PM,10/5/23 11:33 PM,02:54:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005515232556,76,"76, 117",10/5/23 8:35 PM,1,,None,,Dinner,,0.00,73.00,7.48,10.95,0.00,91.43,false,10/5/23 10:12 PM,10/5/23 10:12 PM,01:37:08,In Store
+3401 Harrisburg Boulevard Suite A,800000005515451355,80,80,10/5/23 8:49 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,3.00,0.00,25.04,false,10/5/23 8:50 PM,10/5/23 8:50 PM,00:01:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005515486148,82,82,10/5/23 8:51 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/5/23 8:51 PM,10/5/23 8:51 PM,00:00:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005515620792,84,84,10/5/23 8:55 PM,1,,None,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/5/23 9:03 PM,10/5/23 9:03 PM,00:08:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005515650837,83,83,10/5/23 8:52 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.93,9.60,0.00,62.53,false,10/5/23 8:57 PM,10/5/23 8:57 PM,00:05:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005515755342,86,86,10/5/23 8:58 PM,1,,Dining Room,,Dinner,,9.00,27.00,2.77,0.00,0.00,29.77,false,10/5/23 9:01 PM,10/5/23 9:01 PM,00:02:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005516072322,91,91,10/5/23 9:14 PM,1,,Dining Room,,Dinner,,0.00,32.00,3.28,0.00,0.00,35.28,false,10/5/23 9:14 PM,10/5/23 9:14 PM,00:00:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005516188807,90,90,10/5/23 9:12 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/5/23 9:20 PM,10/5/23 9:20 PM,00:07:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005516234976,92,92,10/5/23 9:17 PM,1,,Dining Room,,Dinner,,6.00,18.00,1.66,3.60,0.00,23.26,false,10/5/23 9:22 PM,10/5/23 9:22 PM,00:04:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005516279476,95,95,10/5/23 9:22 PM,1,,Dining Room,,Dinner,,0.00,6.00,0.62,1.32,0.00,7.94,false,10/5/23 9:24 PM,10/5/23 9:24 PM,00:02:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005516380799,96,96,10/5/23 9:24 PM,1,,Dining Room,,Dinner,,2.75,13.25,1.35,10.00,0.00,24.60,false,10/5/23 11:40 PM,10/5/23 11:40 PM,02:15:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005516498042,98,98,10/5/23 9:33 PM,1,,Dining Room,,Dinner,,3.00,9.00,0.92,1.00,0.00,10.92,false,10/5/23 9:35 PM,10/5/23 9:35 PM,00:01:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005516515327,99,99,10/5/23 9:35 PM,1,,Dining Room,,Dinner,,3.00,9.00,0.92,0.00,0.00,9.92,false,10/5/23 9:35 PM,10/5/23 9:35 PM,00:00:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005516519566,100,100,10/5/23 9:35 PM,1,,Dining Room,,Dinner,,0.00,6.00,0.62,0.90,0.00,7.52,false,10/5/23 9:37 PM,10/5/23 9:37 PM,00:02:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005516562902,102,102,10/5/23 9:37 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,0.00,0.00,22.05,false,10/5/23 9:37 PM,10/5/23 9:37 PM,00:00:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005516594308,101,101,10/5/23 9:35 PM,1,,Dining Room,,Dinner,,0.00,39.00,3.99,7.80,0.00,50.79,false,10/5/23 10:52 PM,10/5/23 10:52 PM,01:16:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005516758234,104,104,10/5/23 9:47 PM,1,,Dining Room,,Dinner,,0.00,6.00,0.62,1.32,0.00,7.94,false,10/5/23 9:51 PM,10/5/23 9:51 PM,00:03:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005516821494,105,105,10/5/23 9:50 PM,1,,None,,Dinner,,4.50,13.50,1.37,2.70,0.00,17.57,false,10/5/23 9:56 PM,10/5/23 9:56 PM,00:06:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005516858352,106,106,10/5/23 9:51 PM,1,,Dining Room,,Dinner,,0.00,32.00,3.28,4.80,0.00,40.08,false,10/5/23 9:54 PM,10/5/23 9:54 PM,00:03:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005516901106,109,109,10/5/23 9:56 PM,1,,Dining Room,,Dinner,,0.00,3.00,0.31,2.00,0.00,5.31,false,10/5/23 10:55 PM,10/5/23 10:55 PM,00:59:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005516941677,107,107,10/5/23 9:54 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/5/23 9:58 PM,10/5/23 9:58 PM,00:04:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005516947470,112,112,10/5/23 9:58 PM,1,,Dining Room,,Dinner,,39.00,0.00,0.00,0.00,0.00,0.00,false,10/6/23 12:14 AM,10/6/23 12:14 AM,02:15:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005516966921,113,113,10/5/23 9:59 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/5/23 10:01 PM,10/5/23 10:01 PM,00:01:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005517007985,114,114,10/5/23 10:02 PM,1,,Dining Room,,Dinner,,10.20,4.80,0.49,3.00,0.00,8.29,false,10/5/23 10:03 PM,10/5/23 10:03 PM,00:01:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005517048456,115,115,10/5/23 10:03 PM,1,,Dining Room,,Dinner,,7.75,23.25,2.38,0.00,0.00,25.63,false,10/5/23 10:05 PM,10/5/23 10:05 PM,00:01:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005517146245,116,116,10/5/23 10:06 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,0.00,0.00,22.04,false,10/5/23 10:12 PM,10/5/23 10:12 PM,00:05:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005517166730,120,120,10/5/23 10:13 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.75,0.00,6.26,false,10/5/23 10:14 PM,10/5/23 10:14 PM,00:00:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005517303999,122,122,10/5/23 10:22 PM,1,,None,,Dinner,,0.00,32.00,3.28,4.80,0.00,40.08,false,10/5/23 10:29 PM,10/5/23 10:29 PM,00:06:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005517345144,123,123,10/5/23 10:26 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,0.00,0.00,22.04,false,10/5/23 10:26 PM,10/5/23 10:26 PM,00:00:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005517355911,118,118,10/5/23 10:12 PM,1,,Dining Room,,Dinner,,0.00,22.00,2.25,3.30,0.00,27.55,false,10/5/23 10:34 PM,10/5/23 10:34 PM,00:21:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005517364730,124,124,10/5/23 10:28 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/5/23 10:29 PM,10/5/23 10:29 PM,00:01:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005517436636,125,125,10/5/23 10:29 PM,1,,Dining Room,,Dinner,,0.00,23.00,2.35,5.06,0.00,30.41,false,10/5/23 10:34 PM,10/5/23 10:34 PM,00:05:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005517633889,126,126,10/5/23 10:50 PM,1,,Dining Room,,Dinner,,0.00,17.00,1.74,3.40,0.00,22.14,false,10/5/23 10:52 PM,10/5/23 10:52 PM,00:02:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005517812859,127,127,10/5/23 11:04 PM,1,,Dining Room,,,,0.00,40.00,4.08,6.00,0.00,50.08,false,10/5/23 11:14 PM,10/5/23 11:14 PM,00:09:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005517854950,128,128,10/5/23 11:17 PM,1,,None,,,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/5/23 11:22 PM,10/5/23 11:22 PM,00:05:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005524722383,1,1,10/6/23 12:25 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/6/23 12:26 PM,10/6/23 12:26 PM,00:01:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005526270726,3,3,10/6/23 12:53 PM,1,,Dining Room,,,,0.00,6.00,0.62,0.00,0.00,6.62,false,10/6/23 1:12 PM,10/6/23 1:12 PM,00:19:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005526913066,4,4,10/6/23 1:12 PM,1,,Dining Room,,,,0.00,13.00,1.33,0.00,0.00,14.33,false,10/6/23 1:35 PM,10/6/23 1:35 PM,00:22:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005527735338,5,5,10/6/23 1:36 PM,1,,Dining Room,,,,0.00,6.00,0.62,0.90,0.00,7.52,false,10/6/23 2:04 PM,10/6/23 2:04 PM,00:27:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005528400052,6,6,10/6/23 2:19 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/6/23 2:25 PM,10/6/23 2:25 PM,00:05:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005528557876,8,8,10/6/23 2:25 PM,1,,None,,,,0.00,31.00,3.17,6.82,0.00,40.99,false,10/6/23 3:44 PM,10/6/23 3:44 PM,01:19:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005528596531,9,9,10/6/23 2:26 PM,1,,None,,,,0.00,11.00,1.13,2.20,0.00,14.33,false,10/6/23 3:50 PM,10/6/23 3:50 PM,01:23:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005528819693,11,11,10/6/23 2:34 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/6/23 2:35 PM,10/6/23 2:35 PM,00:01:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005528874385,12,12,10/6/23 2:35 PM,1,,Dining Room,,,,0.00,20.00,2.05,4.00,0.00,26.05,false,10/6/23 2:37 PM,10/6/23 2:37 PM,00:01:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005528965257,13,13,10/6/23 2:39 PM,1,,Dining Room,,,,0.00,6.00,0.62,1.32,0.00,7.94,false,10/6/23 2:40 PM,10/6/23 2:40 PM,00:00:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005529596612,14,14,10/6/23 2:42 PM,1,,Dining Room,,,,0.00,36.00,3.70,7.20,0.00,46.90,false,10/6/23 5:04 PM,10/6/23 5:04 PM,02:21:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005530051484,16,16,10/6/23 3:15 PM,1,,Dining Room,,,,0.00,17.00,1.50,3.74,0.00,22.24,false,10/6/23 3:27 PM,10/6/23 3:27 PM,00:11:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005530184683,15,15,10/6/23 3:01 PM,1,,Dining Room,,,,1.00,9.00,0.92,1.00,0.00,10.92,false,10/6/23 3:26 PM,10/6/23 3:26 PM,00:24:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005530463770,18,18,10/6/23 3:28 PM,1,,Dining Room,,,,0.00,25.00,2.56,2.50,0.00,30.06,false,10/6/23 3:30 PM,10/6/23 3:30 PM,00:01:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005530539249,19,19,10/6/23 3:30 PM,1,,None,,,,0.00,18.00,1.84,3.96,0.00,23.80,false,10/6/23 3:39 PM,10/6/23 3:39 PM,00:08:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005530761910,20,20,10/6/23 3:38 PM,1,,Dining Room,,,,0.00,11.00,1.13,1.00,0.00,13.13,false,10/6/23 3:39 PM,10/6/23 3:39 PM,00:01:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005532626298,22,22,10/6/23 4:28 PM,1,,None,,,,1.25,3.75,0.39,1.00,0.00,5.14,false,10/6/23 4:34 PM,10/6/23 4:34 PM,00:06:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005533014225,21,21,10/6/23 3:47 PM,1,,Dining Room,,,,3.50,10.50,1.07,2.80,0.00,14.37,false,10/6/23 4:38 PM,10/6/23 4:38 PM,00:50:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005533197327,7001,7001,10/6/23 4:40 PM,1,,Dining Room,,,,6.00,52.00,5.32,12.76,0.00,70.08,false,10/6/23 6:09 PM,10/6/23 6:09 PM,01:29:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005533919605,26,26,10/6/23 4:53 PM,1,,None,,,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/6/23 6:17 PM,10/6/23 6:17 PM,01:23:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005533953586,27,27,10/6/23 4:56 PM,1,,None,,,,6.00,18.00,1.84,3.60,0.00,23.44,false,10/6/23 6:19 PM,10/6/23 6:19 PM,01:23:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005534238486,23,23,10/6/23 4:38 PM,1,,Dining Room,,,,1.25,3.75,0.39,1.00,0.00,5.14,false,10/6/23 5:02 PM,10/6/23 5:02 PM,00:23:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005534289048,29,29,10/6/23 5:02 PM,1,,Dining Room,,,,19.00,57.00,5.83,15.20,0.00,78.03,false,10/6/23 5:03 PM,10/6/23 5:03 PM,00:01:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005534589132,30,30,10/6/23 5:07 PM,1,,Dining Room,,,,0.00,13.00,1.34,1.95,0.00,16.29,false,10/6/23 5:08 PM,10/6/23 5:08 PM,00:01:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005536025220,31,31,10/6/23 5:11 PM,1,,Dining Room,,,,9.50,28.50,2.91,7.60,0.00,39.01,false,10/6/23 5:37 PM,10/6/23 5:37 PM,00:26:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005536240144,32,32,10/6/23 5:19 PM,1,,Dining Room,,,,0.00,124.00,12.79,27.28,0.00,164.07,false,10/6/23 9:12 PM,10/6/23 9:12 PM,03:53:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005536493191,34,34,10/6/23 5:38 PM,1,,Dining Room,,,,8.75,26.25,2.66,5.25,0.00,34.16,false,10/6/23 5:40 PM,10/6/23 5:40 PM,00:01:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005536725432,35,35,10/6/23 5:40 PM,1,,Dining Room,,,,0.00,12.00,1.23,2.40,0.00,15.63,false,10/6/23 5:43 PM,10/6/23 5:43 PM,00:03:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005536860247,36,36,10/6/23 5:45 PM,1,,Dining Room,,,,1.75,5.25,0.53,1.40,0.00,7.18,false,10/6/23 5:45 PM,10/6/23 5:45 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005538320585,39,39,10/6/23 6:04 PM,1,,Dining Room,,Dinner,,1.70,15.30,1.56,0.00,0.00,16.86,false,10/6/23 6:08 PM,10/6/23 6:08 PM,00:03:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005538411734,40,40,10/6/23 6:08 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,6.00,0.00,39.08,false,10/6/23 6:09 PM,10/6/23 6:09 PM,00:01:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005538640871,42,42,10/6/23 6:09 PM,1,,Dining Room,,Dinner,,0.00,17.00,1.74,3.40,0.00,22.14,false,10/6/23 6:54 PM,10/6/23 6:54 PM,00:44:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005538709384,41,41,10/6/23 6:09 PM,1,,Dining Room,,Dinner,,10.00,0.00,0.00,0.00,0.00,0.00,false,10/6/23 11:57 PM,10/6/23 11:57 PM,05:48:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005538950409,45,45,10/6/23 6:15 PM,1,,None,,Dinner,,0.00,43.00,4.41,0.00,0.00,47.41,false,10/6/23 6:16 PM,10/6/23 6:16 PM,00:01:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005539068523,48,48,10/6/23 6:17 PM,1,,Dining Room,,Dinner,,6.75,20.25,2.07,4.00,0.00,26.32,false,10/6/23 6:19 PM,10/6/23 6:19 PM,00:01:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005539193237,47,47,10/6/23 6:17 PM,1,,Dining Room,,Dinner,,0.00,41.00,4.21,9.02,0.00,54.23,false,10/6/23 11:41 PM,10/6/23 11:41 PM,05:23:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005539577284,50,50,10/6/23 6:20 PM,1,,Dining Room,,Dinner,,0.00,22.00,2.25,4.40,0.00,28.65,false,10/6/23 7:09 PM,10/6/23 7:09 PM,00:49:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005539881264,49,49,10/6/23 6:19 PM,1,,Dining Room,,Dinner,,0.00,19.00,1.96,0.00,0.00,20.96,false,10/6/23 6:30 PM,10/6/23 6:30 PM,00:10:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005539935741,51,51,10/6/23 6:26 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,2.00,0.00,35.08,false,10/6/23 6:35 PM,10/6/23 6:35 PM,00:09:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005540206648,46,46,10/6/23 6:16 PM,1,,None,,Dinner,,0.00,13.00,1.33,2.86,0.00,17.19,false,10/6/23 6:38 PM,10/6/23 6:38 PM,00:22:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005540448723,54,54,10/6/23 6:35 PM,1,,Dining Room,,Dinner,,0.00,49.00,4.79,7.35,0.00,61.14,false,10/6/23 6:39 PM,10/6/23 6:39 PM,00:04:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005540910712,57,57,10/6/23 6:41 PM,1,,Dining Room,,Dinner,,0.00,51.00,5.22,10.20,0.00,66.42,false,10/6/23 7:19 PM,10/6/23 7:19 PM,00:37:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005540968861,58,58,10/6/23 6:45 PM,1,,Dining Room,,Dinner,,0.00,36.00,3.45,5.40,0.00,44.85,false,10/6/23 6:46 PM,10/6/23 6:46 PM,00:00:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005541018548,59,59,10/6/23 6:46 PM,1,,None,,Dinner,,0.00,41.00,4.19,7.64,0.00,52.83,false,10/6/23 7:59 PM,10/6/23 7:59 PM,01:12:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005541055573,61,61,10/6/23 6:47 PM,1,,Dining Room,,Dinner,,0.00,24.00,1.98,3.60,0.00,29.58,false,10/6/23 6:48 PM,10/6/23 6:48 PM,00:00:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005541740722,62,62,10/6/23 6:54 PM,1,,Dining Room,,Dinner,,6.60,4.40,0.46,2.42,0.00,7.28,false,10/6/23 6:58 PM,10/6/23 6:58 PM,00:03:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005541866915,63,63,10/6/23 6:58 PM,1,,Dining Room,,Dinner,,0.00,65.00,6.67,9.75,0.00,81.42,false,10/6/23 7:52 PM,10/6/23 7:52 PM,00:53:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005542259711,65,65,10/6/23 7:02 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/6/23 7:05 PM,10/6/23 7:05 PM,00:03:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005542335701,66,66,10/6/23 7:06 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/6/23 7:07 PM,10/6/23 7:07 PM,00:01:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005542377772,67,67,10/6/23 7:07 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,0.60,0.00,5.01,false,10/6/23 7:07 PM,10/6/23 7:07 PM,00:00:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005542830914,68,68,10/6/23 7:12 PM,1,,Dining Room,,Dinner,,0.00,57.00,5.85,11.40,0.00,74.25,false,10/6/23 10:49 PM,10/6/23 10:49 PM,03:37:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005542974036,71,71,10/6/23 7:14 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/6/23 7:16 PM,10/6/23 7:16 PM,00:02:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005543270762,72,72,10/6/23 7:20 PM,1,,Dining Room,,Dinner,,0.00,31.00,2.94,4.65,0.00,38.59,false,10/6/23 7:21 PM,10/6/23 7:21 PM,00:00:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005543645327,73,73,10/6/23 7:23 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,3.00,0.00,25.04,false,10/6/23 7:27 PM,10/6/23 7:27 PM,00:04:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005544433397,76,76,10/6/23 7:34 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.06,8.00,0.00,41.06,false,10/6/23 8:55 PM,10/6/23 8:55 PM,01:20:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005545152546,75,75,10/6/23 7:27 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/6/23 7:51 PM,10/6/23 7:51 PM,00:24:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005545350954,79,79,10/6/23 7:53 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/6/23 7:55 PM,10/6/23 7:55 PM,00:02:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005545362574,82,82,10/6/23 7:55 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/6/23 8:23 PM,10/6/23 8:23 PM,00:27:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005545400853,74,74,10/6/23 7:23 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.86,0.00,17.19,false,10/6/23 8:22 PM,10/6/23 8:22 PM,00:58:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005545439336,83,83,10/6/23 7:55 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,2.80,0.00,18.24,false,10/6/23 8:23 PM,10/6/23 8:23 PM,00:27:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005546072297,87,87,10/6/23 8:08 PM,1,,None,,Dinner,,0.00,51.00,5.23,12.63,0.00,68.86,false,10/6/23 10:03 PM,10/6/23 10:03 PM,01:55:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005546410392,89,89,10/6/23 8:13 PM,1,,Dining Room,,Dinner,,0.00,78.00,7.98,11.70,0.00,97.68,false,10/6/23 11:20 PM,10/6/23 11:20 PM,03:07:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005546664278,90,90,10/6/23 8:14 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.43,10.00,0.00,25.43,false,10/6/23 8:19 PM,10/6/23 8:19 PM,00:05:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005547628104,93,93,10/6/23 8:38 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/6/23 8:38 PM,10/6/23 8:38 PM,00:00:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005548123072,92,92,10/6/23 8:38 PM,1,,None,,Dinner,,0.00,60.00,6.15,5.00,0.00,71.15,false,10/6/23 9:29 PM,10/6/23 9:29 PM,00:51:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005548642463,96,96,10/6/23 8:52 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,7.48,0.00,44.96,false,10/6/23 9:42 PM,10/6/23 9:42 PM,00:49:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005548810842,98,98,10/6/23 9:05 PM,1,,Dining Room,,Dinner,,0.00,9.00,0.92,1.35,0.00,11.27,false,10/6/23 9:10 PM,10/6/23 9:10 PM,00:05:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005549233763,99,99,10/6/23 9:10 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/6/23 9:16 PM,10/6/23 9:16 PM,00:05:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005549537983,102,102,10/6/23 9:17 PM,1,,Dining Room,,Dinner,,0.00,9.00,0.93,0.00,0.00,9.93,false,10/6/23 9:24 PM,10/6/23 9:24 PM,00:07:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005549643815,103,103,10/6/23 9:22 PM,1,,Dining Room,,Dinner,,0.00,25.00,2.56,5.00,0.00,32.56,false,10/6/23 10:07 PM,10/6/23 10:07 PM,00:45:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005550191242,106,106,10/6/23 9:37 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.53,0.00,0.00,16.53,false,10/6/23 9:42 PM,10/6/23 9:42 PM,00:05:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005550990312,110,110,10/6/23 10:07 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.89,8.36,0.00,50.25,false,10/6/23 10:41 PM,10/6/23 10:41 PM,00:34:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005551017542,111,111,10/6/23 10:08 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/6/23 10:10 PM,10/6/23 10:10 PM,00:01:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005551286731,112,112,10/6/23 10:10 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/6/23 11:57 PM,10/6/23 11:57 PM,01:46:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005551680203,113,113,10/6/23 10:20 PM,1,,Dining Room,,Dinner,,0.00,29.00,2.98,4.35,0.00,36.33,false,10/6/23 11:19 PM,10/6/23 11:19 PM,00:59:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005551853289,116,116,10/6/23 10:37 PM,1,,Dining Room,,Dinner,,0.00,27.00,2.77,5.40,0.00,35.17,false,10/6/23 10:43 PM,10/6/23 10:43 PM,00:05:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005561171379,1,1,10/7/23 12:04 PM,1,,Dining Room,,,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/7/23 12:18 PM,10/7/23 12:18 PM,00:14:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005561211302,2,2,10/7/23 12:18 PM,1,,Dining Room,,,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/7/23 12:19 PM,10/7/23 12:19 PM,00:00:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005561499400,3,3,10/7/23 12:25 PM,1,,Dining Room,,,,0.00,5.00,0.51,2.00,0.00,7.51,false,10/7/23 12:25 PM,10/7/23 12:25 PM,00:00:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005562900788,4,4,10/7/23 12:56 PM,1,,None,,,,0.00,10.00,1.03,2.00,0.00,13.03,false,10/7/23 12:57 PM,10/7/23 12:57 PM,00:01:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005564566002,3001,3001,10/7/23 1:33 PM,1,,Dining Room,,,,0.00,29.00,2.97,5.80,0.00,37.77,false,10/7/23 3:31 PM,10/7/23 3:31 PM,01:58:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005564842313,7,7,10/7/23 1:34 PM,1,,Dining Room,,,,0.00,9.00,0.92,1.35,0.00,11.27,false,10/7/23 1:40 PM,10/7/23 1:40 PM,00:06:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005565359934,9,9,10/7/23 1:44 PM,1,,Dining Room,,,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/7/23 1:53 PM,10/7/23 1:53 PM,00:08:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005568798669,10,10,10/7/23 2:37 PM,1,,Dining Room,,,,0.00,22.00,2.25,3.30,0.00,27.55,false,10/7/23 3:14 PM,10/7/23 3:14 PM,00:36:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005569252152,11,11,10/7/23 3:16 PM,1,,Dining Room,,,,0.00,37.00,3.79,7.40,0.00,48.19,false,10/7/23 3:24 PM,10/7/23 3:24 PM,00:08:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005569838834,12,12,10/7/23 3:31 PM,1,,Dining Room,,,,0.00,17.00,1.74,2.55,0.00,21.29,false,10/7/23 3:38 PM,10/7/23 3:38 PM,00:06:08,In Store
+3401 Harrisburg Boulevard Suite A,800000005570479558,13,13,10/7/23 3:38 PM,1,,Dining Room,,,,0.00,8.00,0.82,0.00,0.00,8.82,false,10/7/23 3:52 PM,10/7/23 3:52 PM,00:14:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005571229846,14,14,10/7/23 4:06 PM,1,,Dining Room,,,,0.00,13.00,1.33,0.00,0.00,14.33,false,10/7/23 4:32 PM,10/7/23 4:32 PM,00:25:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005572296208,15,15,10/7/23 4:08 PM,1,,Dining Room,,,,0.00,26.00,2.67,0.00,0.00,28.67,false,10/7/23 4:29 PM,10/7/23 4:29 PM,00:20:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005573387617,3002,3002,10/7/23 4:40 PM,1,,Dining Room,,,,0.00,57.00,5.82,8.55,0.00,71.37,false,10/7/23 8:03 PM,10/7/23 8:03 PM,03:23:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005574620347,18,18,10/7/23 5:10 PM,1,,None,,,,0.00,35.00,3.58,7.70,0.00,46.28,false,10/7/23 7:16 PM,10/7/23 7:16 PM,02:06:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005574947135,19,19,10/7/23 5:11 PM,1,,None,,,,0.00,105.00,10.78,100.00,0.00,215.78,false,10/7/23 9:13 PM,10/7/23 9:13 PM,04:01:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005575284911,21,21,10/7/23 5:16 PM,1,,None,,,,0.00,45.00,4.60,6.75,0.00,56.35,false,10/7/23 6:34 PM,10/7/23 6:34 PM,01:17:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005575345672,23,23,10/7/23 5:17 PM,1,,Dining Room,,,,0.00,48.00,4.90,7.20,0.00,60.10,false,10/7/23 7:08 PM,10/7/23 7:08 PM,01:50:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005575361451,24,24,10/7/23 5:22 PM,1,,None,,,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/7/23 5:23 PM,10/7/23 5:23 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005575444501,25,25,10/7/23 5:23 PM,1,,Dining Room,,,,0.00,20.00,2.05,3.00,0.00,25.05,false,10/7/23 5:27 PM,10/7/23 5:27 PM,00:03:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005575544081,27,27,10/7/23 5:25 PM,1,,Dining Room,,,,0.00,4.00,0.41,1.00,0.00,5.41,false,10/7/23 5:27 PM,10/7/23 5:27 PM,00:02:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005575659919,29,29,10/7/23 5:27 PM,1,,None,,,,0.00,11.00,1.13,1.65,0.00,13.78,false,10/7/23 5:28 PM,10/7/23 5:28 PM,00:01:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005575674099,28,28,10/7/23 5:27 PM,1,,Dining Room,,,,0.00,17.00,1.74,3.40,0.00,22.14,false,10/7/23 5:29 PM,10/7/23 5:29 PM,00:01:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005575727567,32,32,10/7/23 5:29 PM,1,,None,,,,4.00,24.00,2.46,5.60,0.00,32.06,false,10/7/23 11:35 PM,10/7/23 11:35 PM,06:06:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005575809257,34,34,10/7/23 5:30 PM,1,,Dining Room,,,,0.00,14.00,1.43,2.80,0.00,18.23,false,10/7/23 8:21 PM,10/7/23 8:21 PM,02:50:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005575959515,35,35,10/7/23 5:31 PM,1,,Dining Room,,,,0.00,22.00,2.26,4.40,0.00,28.66,false,10/7/23 5:38 PM,10/7/23 5:38 PM,00:07:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005575976004,31,31,10/7/23 5:28 PM,1,,None,,,,0.00,31.00,3.18,6.20,0.00,40.38,false,10/7/23 5:34 PM,10/7/23 5:34 PM,00:05:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005576098747,38,38,10/7/23 5:35 PM,1,,Dining Room,,,,6.50,103.50,10.61,22.00,0.00,136.11,false,10/7/23 8:41 PM,10/7/23 8:41 PM,03:06:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005576198196,40,40,10/7/23 5:36 PM,1,,Dining Room,,,,0.00,38.00,3.88,5.70,0.00,47.58,false,10/7/23 7:14 PM,10/7/23 7:14 PM,01:37:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005576303034,42,42,10/7/23 5:38 PM,1,,None,,,,0.00,46.00,4.46,6.90,0.00,57.36,false,10/7/23 7:20 PM,10/7/23 7:20 PM,01:42:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005576430386,41,41,10/7/23 5:37 PM,1,,Dining Room,,,,0.00,100.00,10.23,22.00,0.00,132.23,false,10/7/23 7:12 PM,10/7/23 7:12 PM,01:35:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005576589864,36,36,10/7/23 5:33 PM,1,,None,,,,0.00,56.00,5.74,11.20,0.00,72.94,false,10/7/23 6:26 PM,10/7/23 6:26 PM,00:53:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005576669732,10001,10001,10/7/23 5:44 PM,1,,None,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/7/23 5:44 PM,10/7/23 5:44 PM,00:00:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005576685659,44,44,10/7/23 5:41 PM,1,,Dining Room,,,,0.00,13.00,1.33,2.60,0.00,16.93,false,10/7/23 5:45 PM,10/7/23 5:45 PM,00:04:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005576715413,47,47,10/7/23 5:45 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/7/23 5:45 PM,10/7/23 5:45 PM,00:00:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005576785999,46,46,10/7/23 5:44 PM,1,,None,,,,0.00,18.00,1.84,0.00,0.00,19.84,false,10/7/23 5:46 PM,10/7/23 5:46 PM,00:02:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005576853680,49,49,10/7/23 5:47 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/7/23 5:48 PM,10/7/23 5:48 PM,00:00:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005576964055,50,50,10/7/23 5:48 PM,1,,Dining Room,,,,0.00,24.00,2.46,0.00,0.00,26.46,false,10/7/23 5:49 PM,10/7/23 5:49 PM,00:01:08,In Store
+3401 Harrisburg Boulevard Suite A,800000005577051535,51,51,10/7/23 5:50 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.00,0.00,9.82,false,10/7/23 5:52 PM,10/7/23 5:52 PM,00:01:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005577985551,55,55,10/7/23 6:03 PM,1,,Dining Room,,Dinner,,0.00,67.00,6.87,10.05,0.00,83.92,false,10/7/23 7:50 PM,10/7/23 7:50 PM,01:46:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005578077996,56,56,10/7/23 6:05 PM,1,,Dining Room,,Dinner,,0.00,105.00,10.73,23.10,0.00,138.83,false,10/7/23 9:01 PM,10/7/23 9:01 PM,02:55:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005578146784,54,54,10/7/23 6:03 PM,1,,Dining Room,,Dinner,,0.00,29.00,2.97,5.80,0.00,37.77,false,10/7/23 11:35 PM,10/7/23 11:35 PM,05:32:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005578293584,48,48,10/7/23 5:46 PM,1,,None,,,,0.00,55.00,5.64,11.00,0.00,71.64,false,10/7/23 8:48 PM,10/7/23 8:48 PM,03:01:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005578340883,57,57,10/7/23 6:08 PM,1,,Dining Room,,Dinner,,0.00,40.00,4.10,6.00,0.00,50.10,false,10/7/23 8:21 PM,10/7/23 8:21 PM,02:13:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005578435480,59,59,10/7/23 6:09 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/7/23 11:35 PM,10/7/23 11:35 PM,05:25:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005578437396,61,61,10/7/23 6:12 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/7/23 6:12 PM,10/7/23 6:12 PM,00:00:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005578674130,58,58,10/7/23 6:08 PM,1,,Dining Room,,Dinner,,0.00,46.00,4.71,0.00,0.00,50.71,false,10/7/23 7:32 PM,10/7/23 7:32 PM,01:24:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005579700080,67,67,10/7/23 6:27 PM,1,,Dining Room,,Dinner,,0.00,40.00,4.08,8.00,0.00,52.08,false,10/7/23 7:18 PM,10/7/23 7:18 PM,00:50:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005579790640,68,68,10/7/23 6:31 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,0.00,0.00,12.13,false,10/7/23 6:33 PM,10/7/23 6:33 PM,00:02:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005579953751,69,69,10/7/23 6:34 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,4.20,0.00,35.07,false,10/7/23 6:39 PM,10/7/23 6:39 PM,00:05:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005579980300,60,60,10/7/23 6:10 PM,1,,None,,Dinner,,0.00,15.00,1.54,3.00,0.00,19.54,false,10/7/23 6:36 PM,10/7/23 6:36 PM,00:26:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005580199046,70,70,10/7/23 6:36 PM,1,,Dining Room,,Dinner,,0.00,56.00,5.74,12.32,0.00,74.06,false,10/7/23 7:23 PM,10/7/23 7:23 PM,00:46:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005580288006,73,73,10/7/23 6:39 PM,1,,Dining Room,,Dinner,,0.00,86.00,8.81,15.00,0.00,109.81,false,10/7/23 7:53 PM,10/7/23 7:53 PM,01:13:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005581118067,77,77,10/7/23 6:50 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.23,1.80,0.00,15.03,false,10/7/23 6:54 PM,10/7/23 6:54 PM,00:04:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005582009356,78,78,10/7/23 7:05 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/7/23 7:08 PM,10/7/23 7:08 PM,00:03:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005582208046,80,80,10/7/23 7:11 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/7/23 9:13 PM,10/7/23 9:13 PM,02:02:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005582995234,85,85,10/7/23 7:24 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.22,5.28,0.00,31.50,false,10/7/23 9:02 PM,10/7/23 9:02 PM,01:37:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005583097725,89,89,10/7/23 7:25 PM,1,,Dining Room,,Dinner,,0.00,17.00,1.74,3.40,0.00,22.14,false,10/7/23 7:52 PM,10/7/23 7:52 PM,00:26:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005583138224,87,87,10/7/23 7:24 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,2.40,0.00,20.04,false,10/7/23 7:27 PM,10/7/23 7:27 PM,00:03:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005583252649,3003,3003,10/7/23 7:28 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,0.00,0.00,22.05,false,10/7/23 7:29 PM,10/7/23 7:29 PM,00:01:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005583335334,92,92,10/7/23 7:29 PM,1,,Dining Room,,Dinner,,0.00,42.00,4.29,5.00,0.00,51.29,false,10/7/23 7:30 PM,10/7/23 7:30 PM,00:01:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005583550974,93,93,10/7/23 7:32 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/7/23 7:34 PM,10/7/23 7:34 PM,00:01:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005583622799,94,94,10/7/23 7:34 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/7/23 7:38 PM,10/7/23 7:38 PM,00:03:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005584224736,95,95,10/7/23 7:38 PM,1,,Dining Room,,Dinner,,0.00,9.00,0.92,1.80,0.00,11.72,false,10/7/23 7:46 PM,10/7/23 7:46 PM,00:07:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005584340085,96,96,10/7/23 7:46 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,0.88,0.00,5.29,false,10/7/23 7:48 PM,10/7/23 7:48 PM,00:02:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005584390465,86,86,10/7/23 7:24 PM,1,,Dining Room,,Dinner,,0.00,50.00,5.12,7.50,0.00,62.62,false,10/7/23 7:49 PM,10/7/23 7:49 PM,00:24:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005584884925,99,99,10/7/23 7:57 PM,1,,Dining Room,,Dinner,,0.00,51.00,5.23,7.65,0.00,63.88,false,10/7/23 9:10 PM,10/7/23 9:10 PM,01:13:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005585043351,88,88,10/7/23 7:25 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,2.25,0.00,18.79,false,10/7/23 8:01 PM,10/7/23 8:01 PM,00:36:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005585259835,98,98,10/7/23 7:54 PM,1,,Dining Room,,Dinner,,0.00,41.00,4.20,8.20,0.00,53.40,false,10/7/23 9:00 PM,10/7/23 9:00 PM,01:06:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005585817220,101,101,10/7/23 8:07 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/7/23 8:16 PM,10/7/23 8:16 PM,00:08:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005585989838,102,102,10/7/23 8:17 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/7/23 8:19 PM,10/7/23 8:19 PM,00:01:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005586036347,103,103,10/7/23 8:19 PM,1,,None,,Dinner,,0.00,29.00,2.97,6.38,0.00,38.35,false,10/7/23 9:01 PM,10/7/23 9:01 PM,00:41:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005586731458,106,106,10/7/23 8:32 PM,1,,None,,Dinner,,0.00,47.00,4.81,10.34,0.00,62.15,false,10/7/23 9:35 PM,10/7/23 9:35 PM,01:02:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005587026793,107,107,10/7/23 8:35 PM,1,,Dining Room,,Dinner,,0.00,35.00,3.59,7.00,0.00,45.59,false,10/7/23 8:42 PM,10/7/23 8:42 PM,00:06:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005587079809,109,109,10/7/23 8:42 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/7/23 8:43 PM,10/7/23 8:43 PM,00:01:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005588081135,111,111,10/7/23 9:00 PM,1,,None,,Dinner,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/7/23 9:12 PM,10/7/23 9:12 PM,00:11:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005588356059,114,114,10/7/23 9:14 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.66,3.90,0.00,32.56,false,10/7/23 10:17 PM,10/7/23 10:17 PM,01:02:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005588402717,115,115,10/7/23 9:15 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.66,3.90,0.00,32.56,false,10/7/23 10:17 PM,10/7/23 10:17 PM,01:02:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005588539858,116,116,10/7/23 9:16 PM,1,,Dining Room,,Dinner,,0.00,88.00,9.00,19.36,0.00,116.36,false,10/7/23 11:13 PM,10/7/23 11:13 PM,01:57:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005588675995,119,119,10/7/23 9:23 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,6.00,0.00,39.08,false,10/7/23 9:23 PM,10/7/23 9:23 PM,00:00:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005589685119,120,120,10/7/23 9:33 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.93,9.60,0.00,62.53,false,10/7/23 11:18 PM,10/7/23 11:18 PM,01:44:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005590216255,122,122,10/7/23 10:08 PM,1,,Dining Room,,Dinner,,0.00,51.00,5.23,5.00,0.00,61.23,false,10/7/23 10:14 PM,10/7/23 10:14 PM,00:06:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005590252799,123,123,10/7/23 10:14 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,0.00,0.00,17.64,false,10/7/23 10:48 PM,10/7/23 10:48 PM,00:34:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005590787005,126,126,10/7/23 10:20 PM,1,,None,,Dinner,,3.60,8.40,0.69,0.00,0.00,9.09,false,10/7/23 10:36 PM,10/7/23 10:36 PM,00:16:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005591073374,112,112,10/7/23 9:01 PM,1,,None,,Dinner,,0.00,30.00,3.08,6.00,0.00,39.08,false,10/7/23 11:11 PM,10/7/23 11:11 PM,02:10:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005599324836,2,2,10/8/23 11:58 AM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 12:05 PM,10/8/23 12:05 PM,00:07:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005600645264,4,4,10/8/23 12:35 PM,1,,None,,,,0.00,13.00,1.33,5.00,0.00,19.33,false,10/8/23 1:05 PM,10/8/23 1:05 PM,00:29:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005600673479,5,5,10/8/23 12:36 PM,1,,None,,,,0.00,38.00,3.65,7.60,0.00,49.25,false,10/8/23 1:11 PM,10/8/23 1:11 PM,00:35:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005600860237,3,3,10/8/23 12:05 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 12:40 PM,10/8/23 12:40 PM,00:35:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005601282254,8,8,10/8/23 12:48 PM,1,,Dining Room,,,,0.00,44.00,4.52,6.60,0.00,55.12,false,10/8/23 1:36 PM,10/8/23 1:36 PM,00:47:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005602331175,9,9,10/8/23 1:12 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 1:15 PM,10/8/23 1:15 PM,00:02:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005602409184,7,7,10/8/23 12:41 PM,1,,Dining Room,,,,0.00,40.00,4.10,10.90,0.00,55.00,false,10/8/23 1:57 PM,10/8/23 1:57 PM,01:15:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005604114991,10,10,10/8/23 1:17 PM,1,,Dining Room,,,,0.00,153.00,15.67,0.00,0.00,168.67,false,10/8/23 3:53 PM,10/8/23 3:53 PM,02:36:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005604526884,3001,3001,10/8/23 2:09 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 2:09 PM,10/8/23 2:09 PM,00:00:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005604565555,3002,3002,10/8/23 2:09 PM,1,,Dining Room,,,,0.00,12.00,1.24,0.00,0.00,13.24,false,10/8/23 2:27 PM,10/8/23 2:27 PM,00:18:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005604617398,16,16,10/8/23 2:11 PM,1,,Dining Room,,,,0.00,11.00,1.13,1.65,0.00,13.78,false,10/8/23 2:14 PM,10/8/23 2:14 PM,00:03:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005605700144,19,19,10/8/23 2:39 PM,1,,Dining Room,,,,0.00,15.00,1.54,3.00,0.00,19.54,false,10/8/23 2:40 PM,10/8/23 2:40 PM,00:00:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005606357322,20,20,10/8/23 2:57 PM,1,,Dining Room,,,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 2:57 PM,10/8/23 2:57 PM,00:00:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005606787190,13,13,10/8/23 1:58 PM,1,,Dining Room,,,,0.00,14.00,1.44,2.80,0.00,18.24,false,10/9/23 12:57 AM,10/9/23 12:57 AM,10:58:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005606840853,6001,6001,10/8/23 3:08 PM,1,,Dining Room,,,,0.00,26.00,2.67,0.00,0.00,28.67,false,10/8/23 3:10 PM,10/8/23 3:10 PM,00:01:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005607347011,23,23,10/8/23 3:14 PM,1,,Dining Room,,,,0.00,7.00,0.72,0.00,0.00,7.72,false,10/8/23 3:36 PM,10/8/23 3:36 PM,00:22:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005607425495,22,22,10/8/23 3:10 PM,1,,Dining Room,,,,0.00,29.00,2.97,4.35,0.00,36.32,false,10/8/23 4:30 PM,10/8/23 4:30 PM,01:20:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005607442150,24,24,10/8/23 3:23 PM,1,,Dining Room,,,,0.00,9.00,0.92,1.80,0.00,11.72,false,10/8/23 3:26 PM,10/8/23 3:26 PM,00:03:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005607447612,25,25,10/8/23 3:25 PM,1,,Dining Room,,,,0.00,22.00,2.26,4.00,0.00,28.26,false,10/8/23 4:34 PM,10/8/23 4:34 PM,01:08:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005607618579,28,28,10/8/23 3:27 PM,1,,None,,,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/9/23 12:59 AM,10/9/23 12:59 AM,09:32:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005607721196,29,29,10/8/23 3:33 PM,1,,None,,,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/8/23 4:26 PM,10/8/23 4:26 PM,00:53:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005607903118,17,17,10/8/23 2:12 PM,1,,Dining Room,,,,0.00,14.00,1.43,2.10,0.00,17.53,false,10/8/23 3:54 PM,10/8/23 3:54 PM,01:41:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005608675788,33,33,10/8/23 3:55 PM,1,,Dining Room,,,,11.50,34.50,3.18,9.20,0.00,46.88,false,10/8/23 5:28 PM,10/8/23 5:28 PM,01:32:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005609290625,36,36,10/8/23 4:13 PM,1,,Dining Room,,,,0.00,35.00,3.59,0.00,0.00,38.59,false,10/8/23 4:14 PM,10/8/23 4:14 PM,00:00:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005609833095,37,37,10/8/23 4:27 PM,1,,Dining Room,,,,0.00,8.00,0.82,0.00,0.00,8.82,false,10/8/23 4:28 PM,10/8/23 4:28 PM,00:00:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005611172400,41,41,10/8/23 4:59 PM,1,,Dining Room,,,,15.75,47.25,4.50,12.60,0.00,64.35,false,10/8/23 6:02 PM,10/8/23 6:02 PM,01:03:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005611626387,43,43,10/8/23 5:11 PM,1,,Dining Room,,,,0.00,12.00,1.23,0.00,0.00,13.23,false,10/8/23 5:12 PM,10/8/23 5:12 PM,00:01:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005612175940,44,44,10/8/23 5:25 PM,1,,Dining Room,,,,0.00,16.00,1.64,2.00,0.00,19.64,false,10/8/23 5:26 PM,10/8/23 5:26 PM,00:01:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005613090182,48,48,10/8/23 5:47 PM,1,,Dining Room,,,,0.00,29.00,2.97,6.38,0.00,38.35,false,10/8/23 6:20 PM,10/8/23 6:20 PM,00:33:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005613107600,49,49,10/8/23 5:47 PM,1,,Dining Room,,,,0.00,29.00,2.97,5.80,0.00,37.77,false,10/8/23 6:19 PM,10/8/23 6:19 PM,00:32:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005613152724,51,51,10/8/23 5:48 PM,1,,Dining Room,,,,0.00,48.00,4.91,9.60,0.00,62.51,false,10/9/23 12:56 AM,10/9/23 12:56 AM,07:08:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005613326426,52,52,10/8/23 5:52 PM,1,,Dining Room,,,,0.00,13.00,1.33,2.86,0.00,17.19,false,10/8/23 5:53 PM,10/8/23 5:53 PM,00:01:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005613356392,53,53,10/8/23 5:53 PM,1,,Dining Room,,,,0.00,28.00,2.87,5.60,0.00,36.47,false,10/9/23 12:56 AM,10/9/23 12:56 AM,07:02:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005613487733,54,54,10/8/23 5:54 PM,1,,Dining Room,,,,0.00,8.00,0.82,0.00,0.00,8.82,false,10/8/23 5:57 PM,10/8/23 5:57 PM,00:03:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005613732493,55,55,10/8/23 6:03 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 6:03 PM,10/8/23 6:03 PM,00:00:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005614001863,59,59,10/8/23 6:04 PM,1,,Dining Room,,Dinner,,0.00,77.00,7.88,15.40,0.00,100.28,false,10/8/23 8:47 PM,10/8/23 8:47 PM,02:42:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005614372494,60,60,10/8/23 6:07 PM,1,,Dining Room,,Dinner,,0.00,56.00,5.74,11.20,0.00,72.94,false,10/8/23 6:38 PM,10/8/23 6:38 PM,00:31:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005614414479,62,62,10/8/23 6:19 PM,1,,Dining Room,,Dinner,,0.00,7.00,0.72,0.00,0.00,7.72,false,10/8/23 6:20 PM,10/8/23 6:20 PM,00:01:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005614458328,63,63,10/8/23 6:20 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.23,0.00,0.00,13.23,false,10/8/23 6:21 PM,10/8/23 6:21 PM,00:00:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005614501082,64,64,10/8/23 6:21 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,0.00,0.00,15.44,false,10/8/23 6:22 PM,10/8/23 6:22 PM,00:01:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005615052462,65,65,10/8/23 6:35 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,5.28,0.00,31.74,false,10/8/23 6:36 PM,10/8/23 6:36 PM,00:01:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005616077359,66,66,10/8/23 6:36 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,0.00,0.00,8.82,false,10/8/23 7:09 PM,10/8/23 7:09 PM,00:32:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005617289403,69,69,10/8/23 7:39 PM,1,,Dining Room,,Dinner,,0.00,17.00,1.74,3.40,0.00,22.14,false,10/8/23 7:40 PM,10/8/23 7:40 PM,00:00:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005617506734,70,70,10/8/23 7:43 PM,1,,Dining Room,,Dinner,,46.00,0.00,0.00,0.00,0.00,0.00,false,10/9/23 12:54 AM,10/9/23 12:54 AM,05:11:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005617534746,71,71,10/8/23 7:46 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/8/23 7:47 PM,10/8/23 7:47 PM,00:00:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005617650497,72,72,10/8/23 7:50 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/8/23 7:51 PM,10/8/23 7:51 PM,00:01:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005617958655,73,73,10/8/23 7:52 PM,1,,Dining Room,,Dinner,,0.00,53.00,5.43,10.60,0.00,69.03,false,10/8/23 10:00 PM,10/8/23 10:00 PM,02:08:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005617959490,74,74,10/8/23 8:01 PM,1,,None,,Dinner,,0.00,20.00,2.05,2.00,0.00,24.05,false,10/8/23 8:03 PM,10/8/23 8:03 PM,00:01:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005618006526,75,75,10/8/23 8:03 PM,1,,None,,Dinner,,0.00,11.00,1.13,2.20,0.00,14.33,false,10/8/23 8:04 PM,10/8/23 8:04 PM,00:01:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005618030753,67,67,10/8/23 6:40 PM,1,,Dining Room,,Dinner,,0.00,25.00,2.56,5.00,0.00,32.56,false,10/9/23 12:55 AM,10/9/23 12:55 AM,06:15:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005618033991,76,76,10/8/23 8:03 PM,1,,Dining Room,,Dinner,,0.00,40.00,4.10,6.00,0.00,50.10,false,10/8/23 8:05 PM,10/8/23 8:05 PM,00:02:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005618035882,77,77,10/8/23 8:05 PM,1,,None,,Dinner,,0.00,34.00,3.48,6.80,0.00,44.28,false,10/8/23 8:07 PM,10/8/23 8:07 PM,00:02:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005618052425,79,79,10/8/23 8:05 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,1.95,0.00,16.28,false,10/8/23 8:06 PM,10/8/23 8:06 PM,00:00:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005618086728,80,80,10/8/23 8:06 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,5.70,0.00,47.60,false,10/8/23 8:08 PM,10/8/23 8:08 PM,00:01:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005618091099,81,81,10/8/23 8:07 PM,1,,None,,Dinner,,0.00,14.00,1.44,2.10,0.00,17.54,false,10/8/23 8:08 PM,10/8/23 8:08 PM,00:00:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005618092867,78,78,10/8/23 8:05 PM,1,,Dining Room,,Dinner,,0.00,18.00,1.84,2.00,0.00,21.84,false,10/8/23 8:08 PM,10/8/23 8:08 PM,00:03:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005618117036,83,83,10/8/23 8:08 PM,1,,None,,Dinner,,0.00,54.00,5.54,10.80,0.00,70.34,false,10/8/23 8:10 PM,10/8/23 8:10 PM,00:02:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005618145465,82,82,10/8/23 8:08 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,1.65,0.00,13.78,false,10/8/23 8:09 PM,10/8/23 8:09 PM,00:01:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005618160888,84,84,10/8/23 8:08 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,0.00,0.00,22.05,false,10/8/23 8:10 PM,10/8/23 8:10 PM,00:01:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005618183579,87,87,10/8/23 8:10 PM,1,,None,,Dinner,,0.00,34.00,3.48,7.48,0.00,44.96,false,10/8/23 8:11 PM,10/8/23 8:11 PM,00:00:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005618196214,88,88,10/8/23 8:10 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.60,0.00,16.93,false,10/8/23 8:12 PM,10/8/23 8:12 PM,00:01:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005618204471,86,86,10/8/23 8:10 PM,1,,Dining Room,,Dinner,,0.00,52.00,5.33,5.00,0.00,62.33,false,10/8/23 8:58 PM,10/8/23 8:58 PM,00:48:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005618208968,89,89,10/8/23 8:11 PM,1,,Dining Room,,Dinner,,0.00,42.00,4.31,15.00,0.00,61.31,false,10/8/23 10:16 PM,10/8/23 10:16 PM,02:04:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005618231170,91,91,10/8/23 8:12 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,3.30,0.00,19.84,false,10/8/23 8:13 PM,10/8/23 8:13 PM,00:01:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005618231967,90,90,10/8/23 8:11 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/8/23 11:10 PM,10/8/23 11:10 PM,02:58:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005618242034,93,93,10/8/23 8:13 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,1.65,0.00,13.78,false,10/8/23 8:13 PM,10/8/23 8:13 PM,00:00:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005618276859,92,92,10/8/23 8:12 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,2.00,0.00,24.04,false,10/8/23 8:15 PM,10/8/23 8:15 PM,00:02:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005618278060,95,95,10/8/23 8:13 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,0.00,0.00,17.64,false,10/8/23 8:15 PM,10/8/23 8:15 PM,00:01:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005618283669,96,96,10/8/23 8:14 PM,1,,None,,Dinner,,0.00,25.00,2.56,5.00,0.00,32.56,false,10/9/23 12:57 AM,10/9/23 12:57 AM,04:42:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005618298742,98,98,10/8/23 8:15 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,6.80,0.00,44.28,false,10/8/23 11:26 PM,10/8/23 11:26 PM,03:11:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005618312618,97,97,10/8/23 8:14 PM,1,,None,,Dinner,,0.00,28.00,2.87,4.20,0.00,35.07,false,10/8/23 8:17 PM,10/8/23 8:17 PM,00:02:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005618348573,100,100,10/8/23 8:16 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,4.50,0.00,37.58,false,10/8/23 8:17 PM,10/8/23 8:17 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005618350256,99,99,10/8/23 8:15 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.67,3.90,0.00,32.57,false,10/8/23 8:18 PM,10/8/23 8:18 PM,00:03:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005618354141,101,101,10/8/23 8:17 PM,1,,None,,Dinner,,0.00,25.00,2.56,5.00,0.00,32.56,false,10/8/23 8:18 PM,10/8/23 8:18 PM,00:00:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005618361839,102,102,10/8/23 8:17 PM,1,,None,,Dinner,,0.00,38.00,3.90,0.00,0.00,41.90,false,10/8/23 8:18 PM,10/8/23 8:18 PM,00:00:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005618375081,104,104,10/8/23 8:18 PM,1,,None,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/8/23 8:19 PM,10/8/23 8:19 PM,00:00:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005618392233,103,103,10/8/23 8:17 PM,1,,Dining Room,,Dinner,,0.00,31.00,3.18,6.20,0.00,40.38,false,10/9/23 12:57 AM,10/9/23 12:57 AM,04:39:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005618414937,94,94,10/8/23 8:13 PM,1,,Dining Room,,Dinner,,0.00,29.00,2.98,4.35,0.00,36.33,false,10/8/23 8:22 PM,10/8/23 8:22 PM,00:09:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005618416525,108,108,10/8/23 8:20 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,0.00,0.00,37.48,false,10/8/23 8:21 PM,10/8/23 8:21 PM,00:00:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005618427432,109,109,10/8/23 8:20 PM,1,,Dining Room,,Dinner,,0.00,54.00,5.54,1.63,0.00,61.17,false,10/8/23 8:23 PM,10/8/23 8:23 PM,00:02:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005618467528,106,106,10/8/23 8:19 PM,1,,None,,Dinner,,0.00,44.00,4.51,1.43,0.00,49.94,false,10/8/23 8:24 PM,10/8/23 8:24 PM,00:05:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005618478014,110,110,10/8/23 8:21 PM,1,,Dining Room,,Dinner,,0.00,46.00,4.71,6.90,0.00,57.61,false,10/8/23 10:11 PM,10/8/23 10:11 PM,01:50:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005618499345,114,114,10/8/23 8:23 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,0.00,0.00,14.33,false,10/8/23 8:29 PM,10/8/23 8:29 PM,00:05:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005618517831,112,112,10/8/23 8:22 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,2.00,0.00,19.64,false,10/8/23 8:25 PM,10/8/23 8:25 PM,00:02:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005618525952,113,113,10/8/23 8:23 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/8/23 8:24 PM,10/8/23 8:24 PM,00:01:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005618526168,115,115,10/8/23 8:24 PM,1,,None,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/8/23 8:25 PM,10/8/23 8:25 PM,00:00:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005618542920,111,111,10/8/23 8:22 PM,1,,Dining Room,,Dinner,,0.00,23.00,2.35,2.00,0.00,27.35,false,10/8/23 8:26 PM,10/8/23 8:26 PM,00:03:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005618566893,116,116,10/8/23 8:25 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/9/23 1:00 AM,10/9/23 1:00 AM,04:34:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005618569072,118,118,10/8/23 8:26 PM,1,,Dining Room,,Dinner,,0.00,62.00,6.36,9.30,0.00,77.66,false,10/8/23 8:29 PM,10/8/23 8:29 PM,00:03:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005618585926,119,119,10/8/23 8:26 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/8/23 8:27 PM,10/8/23 8:27 PM,00:00:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005618606927,120,120,10/8/23 8:27 PM,1,,None,,Dinner,,0.00,33.00,3.38,4.95,0.00,41.33,false,10/8/23 8:30 PM,10/8/23 8:30 PM,00:03:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005618617185,117,117,10/8/23 8:26 PM,1,,Dining Room,,Dinner,,0.00,41.00,4.21,3.00,0.00,48.21,false,10/8/23 8:29 PM,10/8/23 8:29 PM,00:03:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005618617445,121,121,10/8/23 8:28 PM,1,,Dining Room,,Dinner,,0.00,21.00,2.15,1.00,0.00,24.15,false,10/8/23 8:29 PM,10/8/23 8:29 PM,00:01:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005618636080,122,122,10/8/23 8:29 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,1.00,0.00,17.54,false,10/8/23 8:30 PM,10/8/23 8:30 PM,00:00:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005618640406,123,123,10/8/23 8:29 PM,1,,Dining Room,,Dinner,,0.00,22.00,2.26,3.30,0.00,27.56,false,10/8/23 8:30 PM,10/8/23 8:30 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005618644554,124,124,10/8/23 8:29 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,5.00,0.00,42.48,false,10/8/23 8:32 PM,10/8/23 8:32 PM,00:02:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005618669585,126,126,10/8/23 8:30 PM,1,,None,,Dinner,,0.00,60.00,6.16,9.00,0.00,75.16,false,10/8/23 10:48 PM,10/8/23 10:48 PM,02:17:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005618676324,125,125,10/8/23 8:30 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,0.00,0.00,26.46,false,10/8/23 8:31 PM,10/8/23 8:31 PM,00:01:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005618694228,128,128,10/8/23 8:31 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.60,0.00,16.93,false,10/8/23 8:32 PM,10/8/23 8:32 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005618711128,130,130,10/8/23 8:32 PM,1,,Dining Room,,Dinner,,0.00,46.00,4.72,6.90,0.00,57.62,false,10/8/23 8:35 PM,10/8/23 8:35 PM,00:03:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005618718515,131,131,10/8/23 8:32 PM,1,,None,,Dinner,,0.00,28.00,2.86,5.60,0.00,36.46,false,10/9/23 12:56 AM,10/9/23 12:56 AM,04:23:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005618730992,133,133,10/8/23 8:33 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,3.00,0.00,40.48,false,10/8/23 8:35 PM,10/8/23 8:35 PM,00:02:08,In Store
+3401 Harrisburg Boulevard Suite A,800000005618732274,129,129,10/8/23 8:32 PM,1,,Dining Room,,Dinner,,0.00,35.00,3.59,7.00,0.00,45.59,false,10/8/23 10:23 PM,10/8/23 10:23 PM,01:50:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005618770516,134,134,10/8/23 8:34 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,0.00,0.00,33.08,false,10/8/23 8:36 PM,10/8/23 8:36 PM,00:01:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005618782846,135,135,10/8/23 8:35 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.92,5.00,0.00,57.92,false,10/8/23 8:38 PM,10/8/23 8:38 PM,00:02:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005618784185,136,136,10/8/23 8:35 PM,1,,Dining Room,,Dinner,,0.00,52.00,5.33,7.80,0.00,65.13,false,10/8/23 8:36 PM,10/8/23 8:36 PM,00:00:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005618802316,139,139,10/8/23 8:36 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,1.10,0.00,6.61,false,10/8/23 8:37 PM,10/8/23 8:37 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005618805307,138,138,10/8/23 8:36 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,3.00,0.00,19.54,false,10/8/23 8:37 PM,10/8/23 8:37 PM,00:01:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005618822202,132,132,10/8/23 8:33 PM,1,,None,,Dinner,,0.00,32.00,3.28,4.80,0.00,40.08,false,10/8/23 8:37 PM,10/8/23 8:37 PM,00:04:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005618829686,142,142,10/8/23 8:37 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,4.00,0.00,26.05,false,10/8/23 8:38 PM,10/8/23 8:38 PM,00:00:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005618834482,141,141,10/8/23 8:37 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,5.60,0.00,36.47,false,10/8/23 8:38 PM,10/8/23 8:38 PM,00:00:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005618837372,143,143,10/8/23 8:38 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/8/23 8:38 PM,10/8/23 8:38 PM,00:00:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005618840505,137,137,10/8/23 8:36 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/8/23 8:39 PM,10/8/23 8:39 PM,00:03:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005618850402,127,127,10/8/23 8:30 PM,1,,None,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 8:39 PM,10/8/23 8:39 PM,00:08:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005618853286,145,145,10/8/23 8:39 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,2.20,0.00,14.33,false,10/8/23 8:39 PM,10/8/23 8:39 PM,00:00:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005618856356,144,144,10/8/23 8:38 PM,1,,Dining Room,,Dinner,,0.00,86.00,8.82,0.00,0.00,94.82,false,10/8/23 8:39 PM,10/8/23 8:39 PM,00:00:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005618862930,147,147,10/8/23 8:39 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,4.00,0.00,26.05,false,10/8/23 8:40 PM,10/8/23 8:40 PM,00:00:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005618869229,146,146,10/8/23 8:39 PM,1,,Dining Room,,Dinner,,0.00,97.00,9.94,14.55,0.00,121.49,false,10/8/23 8:41 PM,10/8/23 8:41 PM,00:02:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005618876928,148,148,10/8/23 8:40 PM,1,,Dining Room,,Dinner,,0.00,3.00,0.31,0.45,0.00,3.76,false,10/8/23 8:40 PM,10/8/23 8:40 PM,00:00:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005618880896,149,149,10/8/23 8:40 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,0.00,0.00,14.33,false,10/8/23 8:40 PM,10/8/23 8:40 PM,00:00:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005618893253,150,150,10/8/23 8:41 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,3.00,0.00,19.54,false,10/8/23 8:42 PM,10/8/23 8:42 PM,00:00:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005618898429,8001,8001,10/8/23 8:37 PM,1,,None,,Dinner,,0.00,26.00,2.66,5.20,0.00,33.86,false,10/8/23 8:41 PM,10/8/23 8:41 PM,00:03:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005618900611,151,151,10/8/23 8:41 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,0.00,0.00,41.90,false,10/8/23 8:42 PM,10/8/23 8:42 PM,00:00:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005618913915,153,153,10/8/23 8:42 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,3.20,0.00,20.84,false,10/8/23 8:43 PM,10/8/23 8:43 PM,00:01:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005618921345,152,152,10/8/23 8:41 PM,1,,Dining Room,,Dinner,,0.00,68.00,6.97,10.20,0.00,85.17,false,10/8/23 10:32 PM,10/8/23 10:32 PM,01:50:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005618936325,156,156,10/8/23 8:43 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.75,0.00,6.26,false,10/8/23 8:43 PM,10/8/23 8:43 PM,00:00:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005618938553,157,157,10/8/23 8:43 PM,1,,Dining Room,,Dinner,,0.00,54.00,5.54,5.00,0.00,64.54,false,10/8/23 8:43 PM,10/8/23 8:43 PM,00:00:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005618943436,154,154,10/8/23 8:42 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,7.60,0.00,49.50,false,10/8/23 8:44 PM,10/8/23 8:44 PM,00:01:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005618955466,155,155,10/8/23 8:43 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,2.40,0.00,20.04,false,10/8/23 8:44 PM,10/8/23 8:44 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005618967513,158,158,10/8/23 8:43 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,0.00,0.00,14.33,false,10/8/23 8:45 PM,10/8/23 8:45 PM,00:01:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005618976360,159,159,10/8/23 8:44 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 8:45 PM,10/8/23 8:45 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005618980782,161,161,10/8/23 8:45 PM,1,,Dining Room,,Dinner,,0.00,44.00,4.51,0.00,0.00,48.51,false,10/8/23 8:46 PM,10/8/23 8:46 PM,00:01:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005618984679,160,160,10/8/23 8:44 PM,1,,Dining Room,,Dinner,,0.00,19.00,1.95,2.00,0.00,22.95,false,10/8/23 8:47 PM,10/8/23 8:47 PM,00:02:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005619013755,164,164,10/8/23 8:46 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,4.50,0.00,37.58,false,10/8/23 8:48 PM,10/8/23 8:48 PM,00:01:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005619015786,163,163,10/8/23 8:45 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.08,0.00,0.00,33.08,false,10/8/23 8:47 PM,10/8/23 8:47 PM,00:01:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005619041999,167,167,10/8/23 8:47 PM,1,,Dining Room,,Dinner,,0.00,27.00,2.77,4.05,0.00,33.82,false,10/8/23 8:49 PM,10/8/23 8:49 PM,00:02:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005619049339,168,168,10/8/23 8:48 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 8:49 PM,10/8/23 8:49 PM,00:00:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005619064052,170,170,10/8/23 8:49 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,3.00,0.00,44.90,false,10/8/23 8:49 PM,10/8/23 8:49 PM,00:00:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005619080412,169,169,10/8/23 8:48 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,4.20,0.00,35.07,false,10/8/23 8:51 PM,10/8/23 8:51 PM,00:02:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005619089659,165,165,10/8/23 8:47 PM,1,,Dining Room,,Dinner,,9.50,28.50,2.91,0.00,0.00,31.41,false,10/8/23 8:50 PM,10/8/23 8:50 PM,00:03:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005619107288,173,173,10/8/23 8:51 PM,1,,Dining Room,,Dinner,,0.00,54.00,5.54,11.88,0.00,71.42,false,10/8/23 8:54 PM,10/8/23 8:54 PM,00:03:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005619113235,174,174,10/8/23 8:51 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.43,3.08,0.00,18.51,false,10/8/23 8:52 PM,10/8/23 8:52 PM,00:01:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005619115547,172,172,10/8/23 8:50 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,2.80,0.00,18.24,false,10/8/23 8:52 PM,10/8/23 8:52 PM,00:01:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005619123961,175,175,10/8/23 8:52 PM,1,,None,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 8:52 PM,10/8/23 8:52 PM,00:00:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005619132369,177,177,10/8/23 8:52 PM,1,,None,,Dinner,,0.00,11.00,1.13,1.65,0.00,13.78,false,10/8/23 8:53 PM,10/8/23 8:53 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005619159731,178,178,10/8/23 8:52 PM,1,,Dining Room,,Dinner,,0.00,36.00,3.69,5.40,0.00,45.09,false,10/8/23 8:54 PM,10/8/23 8:54 PM,00:01:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005619163577,179,179,10/8/23 8:54 PM,1,,Dining Room,,Dinner,,0.00,44.00,4.51,5.00,0.00,53.51,false,10/8/23 8:55 PM,10/8/23 8:55 PM,00:01:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005619165259,176,176,10/8/23 8:52 PM,1,,Dining Room,,Dinner,,0.00,19.00,1.95,3.80,0.00,24.75,false,10/8/23 8:55 PM,10/8/23 8:55 PM,00:02:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005619183949,181,181,10/8/23 8:55 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.67,5.20,0.00,33.87,false,10/8/23 8:56 PM,10/8/23 8:56 PM,00:00:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005619195983,180,180,10/8/23 8:55 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.60,0.00,16.93,false,10/8/23 8:56 PM,10/8/23 8:56 PM,00:01:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005619200226,8002,8002,10/8/23 8:53 PM,1,,None,,Dinner,,0.00,16.00,1.64,3.20,0.00,20.84,false,10/8/23 8:54 PM,10/8/23 8:54 PM,00:00:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005619206466,171,171,10/8/23 8:49 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 8:56 PM,10/8/23 8:56 PM,00:07:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005619207896,182,182,10/8/23 8:55 PM,1,,Dining Room,,Dinner,,0.00,52.00,5.33,0.00,0.00,57.33,false,10/8/23 8:57 PM,10/8/23 8:57 PM,00:01:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005619209045,184,184,10/8/23 8:56 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 8:57 PM,10/8/23 8:57 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005619213142,185,185,10/8/23 8:56 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/8/23 8:57 PM,10/8/23 8:57 PM,00:01:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005619225984,183,183,10/8/23 8:56 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.20,0.00,10.02,false,10/8/23 8:58 PM,10/8/23 8:58 PM,00:02:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005619244679,186,186,10/8/23 8:58 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/8/23 8:59 PM,10/8/23 8:59 PM,00:01:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005619253889,8003,8003,10/8/23 8:54 PM,1,,None,,Dinner,,0.00,38.00,3.90,5.70,0.00,47.60,false,10/8/23 8:59 PM,10/8/23 8:59 PM,00:04:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005619259983,188,188,10/8/23 8:59 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,0.00,0.00,37.48,false,10/8/23 9:01 PM,10/8/23 9:01 PM,00:01:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005619281263,189,189,10/8/23 8:59 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,0.00,0.00,8.82,false,10/8/23 9:02 PM,10/8/23 9:02 PM,00:02:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005619290667,191,191,10/8/23 9:01 PM,1,,Dining Room,,Dinner,,0.00,54.00,5.54,2.00,0.00,61.54,false,10/8/23 9:02 PM,10/8/23 9:02 PM,00:01:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005619291986,187,187,10/8/23 8:58 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,2.20,0.00,14.33,false,10/8/23 9:01 PM,10/8/23 9:01 PM,00:03:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005619301273,190,190,10/8/23 8:59 PM,1,,Dining Room,,Dinner,,0.00,66.00,6.76,14.52,0.00,87.28,false,10/8/23 9:04 PM,10/8/23 9:04 PM,00:04:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005619313149,194,194,10/8/23 9:02 PM,1,,Dining Room,,Dinner,,0.00,92.00,9.44,20.24,0.00,121.68,false,10/8/23 9:03 PM,10/8/23 9:03 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005619315979,192,192,10/8/23 9:01 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,2.20,0.00,14.33,false,10/8/23 9:03 PM,10/8/23 9:03 PM,00:01:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005619323821,7001,7001,10/8/23 9:02 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/8/23 9:03 PM,10/8/23 9:03 PM,00:01:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005619345037,196,196,10/8/23 9:04 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 9:04 PM,10/8/23 9:04 PM,00:00:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005619349062,198,198,10/8/23 9:04 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.67,5.20,0.00,33.87,false,10/8/23 9:06 PM,10/8/23 9:06 PM,00:02:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005619349543,195,195,10/8/23 9:03 PM,1,,Dining Room,,Dinner,,0.00,50.00,5.13,3.00,0.00,58.13,false,10/8/23 9:05 PM,10/8/23 9:05 PM,00:01:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005619366837,199,199,10/8/23 9:04 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.66,5.20,0.00,33.86,false,10/8/23 9:05 PM,10/8/23 9:05 PM,00:01:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005619371735,200,200,10/8/23 9:05 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.66,5.20,0.00,33.86,false,10/8/23 9:06 PM,10/8/23 9:06 PM,00:01:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005619390016,202,202,10/8/23 9:06 PM,1,,Dining Room,,Dinner,,0.00,44.00,4.51,0.00,0.00,48.51,false,10/8/23 9:08 PM,10/8/23 9:08 PM,00:01:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005619392200,203,203,10/8/23 9:06 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,6.80,0.00,44.28,false,10/9/23 12:56 AM,10/9/23 12:56 AM,03:49:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005619404227,201,201,10/8/23 9:05 PM,1,,Dining Room,,Dinner,,0.00,31.00,3.18,6.20,0.00,40.38,false,10/8/23 9:08 PM,10/8/23 9:08 PM,00:02:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005619417944,205,205,10/8/23 9:08 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,2.25,0.00,18.79,false,10/8/23 9:09 PM,10/8/23 9:09 PM,00:00:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005619425230,206,206,10/8/23 9:08 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/8/23 9:09 PM,10/8/23 9:09 PM,00:00:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005619431332,197,197,10/8/23 9:04 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,2.96,0.00,25.00,false,10/8/23 9:11 PM,10/8/23 9:11 PM,00:06:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005619436005,204,204,10/8/23 9:08 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,7.60,0.00,49.50,false,10/8/23 9:10 PM,10/8/23 9:10 PM,00:01:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005619458847,208,208,10/8/23 9:09 PM,1,,Dining Room,,Dinner,,0.00,54.00,5.54,8.10,0.00,67.64,false,10/8/23 9:11 PM,10/8/23 9:11 PM,00:02:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005619470607,209,209,10/8/23 9:10 PM,1,,Dining Room,,Dinner,,0.00,46.00,4.72,10.12,0.00,60.84,false,10/8/23 9:12 PM,10/8/23 9:12 PM,00:02:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005619481704,207,207,10/8/23 9:09 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.92,7.20,0.00,60.12,false,10/8/23 9:13 PM,10/8/23 9:13 PM,00:04:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005619490613,211,211,10/8/23 9:12 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,4.40,0.00,26.45,false,10/8/23 9:13 PM,10/8/23 9:13 PM,00:00:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005619499832,213,213,10/8/23 9:13 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,2.25,0.00,18.79,false,10/8/23 9:13 PM,10/8/23 9:13 PM,00:00:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005619511245,210,210,10/8/23 9:12 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,2.00,0.00,39.48,false,10/8/23 9:15 PM,10/8/23 9:15 PM,00:03:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005619513309,214,214,10/8/23 9:13 PM,1,,Dining Room,,Dinner,,0.00,54.00,5.54,2.00,0.00,61.54,false,10/8/23 9:15 PM,10/8/23 9:15 PM,00:01:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005619519504,215,215,10/8/23 9:14 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.43,0.00,0.00,15.43,false,10/8/23 9:15 PM,10/8/23 9:15 PM,00:00:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005619530800,216,216,10/8/23 9:15 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.07,3.00,0.00,36.07,false,10/8/23 9:16 PM,10/8/23 9:16 PM,00:01:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005619532872,217,217,10/8/23 9:15 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,2.10,0.00,17.54,false,10/8/23 9:16 PM,10/8/23 9:16 PM,00:00:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005619546476,218,218,10/8/23 9:15 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,4.40,0.00,26.44,false,10/8/23 9:16 PM,10/8/23 9:16 PM,00:00:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005619555721,219,219,10/8/23 9:16 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,3.30,0.00,19.84,false,10/8/23 9:17 PM,10/8/23 9:17 PM,00:01:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005619565920,212,212,10/8/23 9:13 PM,1,,Dining Room,,Dinner,,0.00,43.00,4.41,5.00,0.00,52.41,false,10/8/23 9:18 PM,10/8/23 9:18 PM,00:04:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005619587575,224,224,10/8/23 9:18 PM,1,,Dining Room,,Dinner,,0.00,54.00,5.54,8.10,0.00,67.64,false,10/8/23 9:20 PM,10/8/23 9:20 PM,00:01:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005619601067,222,222,10/8/23 9:17 PM,1,,Dining Room,,Dinner,,0.00,54.00,5.54,1.00,0.00,60.54,false,10/8/23 9:20 PM,10/8/23 9:20 PM,00:03:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005619603935,220,220,10/8/23 9:16 PM,1,,Dining Room,,Dinner,,0.00,33.00,3.38,7.26,0.00,43.64,false,10/8/23 9:20 PM,10/8/23 9:20 PM,00:03:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005619613094,225,225,10/8/23 9:20 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,2.25,0.00,18.79,false,10/8/23 9:22 PM,10/8/23 9:22 PM,00:02:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005619617367,227,227,10/8/23 9:20 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,5.70,0.00,47.60,false,10/8/23 9:20 PM,10/8/23 9:20 PM,00:00:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005619625412,226,226,10/8/23 9:20 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/8/23 9:22 PM,10/8/23 9:22 PM,00:02:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005619636306,228,228,10/8/23 9:20 PM,1,,Dining Room,,Dinner,,0.00,25.00,2.57,0.00,0.00,27.57,false,10/8/23 9:22 PM,10/8/23 9:22 PM,00:01:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005619638468,229,229,10/8/23 9:21 PM,1,,None,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 9:22 PM,10/8/23 9:22 PM,00:00:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005619643805,230,230,10/8/23 9:22 PM,1,,Dining Room,,Dinner,,0.00,23.00,2.35,0.00,0.00,25.35,false,10/8/23 9:22 PM,10/8/23 9:22 PM,00:00:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005619659746,231,231,10/8/23 9:22 PM,1,,None,,Dinner,,0.00,28.00,2.87,4.00,0.00,34.87,false,10/8/23 9:24 PM,10/8/23 9:24 PM,00:01:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005619664539,232,232,10/8/23 9:23 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/8/23 9:24 PM,10/8/23 9:24 PM,00:01:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005619683559,234,234,10/8/23 9:24 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 9:25 PM,10/8/23 9:25 PM,00:01:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005619704758,236,236,10/8/23 9:25 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,3.00,0.00,25.05,false,10/8/23 9:27 PM,10/8/23 9:27 PM,00:01:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005619706729,235,235,10/8/23 9:25 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,0.00,0.00,41.90,false,10/8/23 9:28 PM,10/8/23 9:28 PM,00:03:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005619713771,237,237,10/8/23 9:26 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.20,0.00,10.02,false,10/8/23 9:27 PM,10/8/23 9:27 PM,00:01:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005619727134,223,223,10/8/23 9:18 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,3.00,0.00,25.05,false,10/8/23 9:28 PM,10/8/23 9:28 PM,00:10:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005619729066,238,238,10/8/23 9:27 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 9:28 PM,10/8/23 9:28 PM,00:00:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005619729152,233,233,10/8/23 9:24 PM,1,,None,,Dinner,,0.00,54.00,5.54,10.80,0.00,70.34,false,10/8/23 9:34 PM,10/8/23 9:34 PM,00:10:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005619742231,239,239,10/8/23 9:28 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,3.08,0.00,18.52,false,10/8/23 9:30 PM,10/8/23 9:30 PM,00:02:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005619758282,241,241,10/8/23 9:30 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 9:31 PM,10/8/23 9:31 PM,00:01:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005619775567,243,243,10/8/23 9:31 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,7.60,0.00,49.50,false,10/8/23 9:32 PM,10/8/23 9:32 PM,00:01:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005619776489,242,242,10/8/23 9:30 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,3.00,0.00,40.48,false,10/8/23 9:32 PM,10/8/23 9:32 PM,00:01:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005619792074,240,240,10/8/23 9:28 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.89,5.00,0.00,46.89,false,10/8/23 9:34 PM,10/8/23 9:34 PM,00:05:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005619795343,244,244,10/8/23 9:32 PM,1,,Dining Room,,Dinner,,0.00,70.00,7.18,0.00,0.00,77.18,false,10/8/23 9:33 PM,10/8/23 9:33 PM,00:00:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005619813578,245,245,10/8/23 9:32 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/8/23 9:34 PM,10/8/23 9:34 PM,00:01:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005619821799,247,247,10/8/23 9:34 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/8/23 9:34 PM,10/8/23 9:34 PM,00:00:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005619824843,246,246,10/8/23 9:34 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/8/23 9:36 PM,10/8/23 9:36 PM,00:01:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005619847235,249,249,10/8/23 9:35 PM,1,,Dining Room,,Dinner,,0.00,58.00,5.94,8.70,0.00,72.64,false,10/8/23 9:36 PM,10/8/23 9:36 PM,00:01:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005619857383,248,248,10/8/23 9:35 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,3.00,0.00,19.54,false,10/8/23 9:38 PM,10/8/23 9:38 PM,00:03:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005619857869,250,250,10/8/23 9:36 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,1.95,0.00,16.28,false,10/8/23 9:38 PM,10/8/23 9:38 PM,00:01:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005619870273,251,251,10/8/23 9:37 PM,1,,None,,Dinner,,0.00,27.00,2.77,3.00,0.00,32.77,false,10/8/23 9:39 PM,10/8/23 9:39 PM,00:01:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005619881932,254,254,10/8/23 9:38 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,4.13,0.00,35.00,false,10/8/23 9:39 PM,10/8/23 9:39 PM,00:00:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005619886591,253,253,10/8/23 9:38 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,2.40,0.00,20.04,false,10/8/23 9:40 PM,10/8/23 9:40 PM,00:01:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005619887786,255,255,10/8/23 9:39 PM,1,,None,,Dinner,,0.00,15.00,1.53,2.25,0.00,18.78,false,10/8/23 9:39 PM,10/8/23 9:39 PM,00:00:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005619896057,256,256,10/8/23 9:39 PM,1,,None,,Dinner,,0.00,28.00,2.87,4.20,0.00,35.07,false,10/8/23 9:41 PM,10/8/23 9:41 PM,00:01:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005619905031,257,257,10/8/23 9:40 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.92,9.60,0.00,62.52,false,10/8/23 9:41 PM,10/8/23 9:41 PM,00:01:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005619916831,258,258,10/8/23 9:41 PM,1,,None,,Dinner,,0.00,34.00,3.48,0.00,0.00,37.48,false,10/8/23 9:42 PM,10/8/23 9:42 PM,00:01:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005619928383,259,259,10/8/23 9:41 PM,1,,Dining Room,,Dinner,,0.00,54.00,5.54,0.00,0.00,59.54,false,10/8/23 9:42 PM,10/8/23 9:42 PM,00:00:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005619934135,262,262,10/8/23 9:42 PM,1,,None,,Dinner,,0.00,28.00,2.87,2.00,0.00,32.87,false,10/8/23 9:43 PM,10/8/23 9:43 PM,00:00:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005619938866,252,252,10/8/23 9:38 PM,1,,Dining Room,,Dinner,,0.00,35.00,3.59,10.00,0.00,48.59,false,10/8/23 9:44 PM,10/8/23 9:44 PM,00:05:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005619939431,260,260,10/8/23 9:42 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/8/23 9:43 PM,10/8/23 9:43 PM,00:01:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005619948595,263,263,10/8/23 9:43 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,2.00,0.00,28.46,false,10/8/23 9:44 PM,10/8/23 9:44 PM,00:00:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005619951727,265,265,10/8/23 9:44 PM,1,,None,,Dinner,,0.00,46.00,4.72,6.90,0.00,57.62,false,10/8/23 9:45 PM,10/8/23 9:45 PM,00:01:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005619955632,266,266,10/8/23 9:44 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 9:45 PM,10/8/23 9:45 PM,00:01:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005619965588,264,264,10/8/23 9:43 PM,1,,Dining Room,,Dinner,,0.00,52.00,5.33,11.44,0.00,68.77,false,10/8/23 9:45 PM,10/8/23 9:45 PM,00:01:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005619967966,269,269,10/8/23 9:45 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.66,2.00,0.00,30.66,false,10/8/23 9:46 PM,10/8/23 9:46 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005619975511,268,268,10/8/23 9:45 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.43,2.10,0.00,17.53,false,10/8/23 9:47 PM,10/8/23 9:47 PM,00:02:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005619988913,267,267,10/8/23 9:45 PM,1,,None,,Dinner,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/8/23 9:47 PM,10/8/23 9:47 PM,00:02:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005620001100,271,271,10/8/23 9:47 PM,1,,Dining Room,,Dinner,,0.00,55.00,5.64,8.25,0.00,68.89,false,10/8/23 9:48 PM,10/8/23 9:48 PM,00:01:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005620013817,273,273,10/8/23 9:48 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/8/23 9:49 PM,10/8/23 9:49 PM,00:00:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005620018504,272,272,10/8/23 9:48 PM,1,,Dining Room,,Dinner,,0.00,56.00,5.74,15.00,0.00,76.74,false,10/8/23 9:49 PM,10/8/23 9:49 PM,00:01:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005620026205,274,274,10/8/23 9:49 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,2.80,0.00,18.24,false,10/8/23 9:51 PM,10/8/23 9:51 PM,00:02:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005620026772,275,275,10/8/23 9:50 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/8/23 9:50 PM,10/8/23 9:50 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005620030107,270,270,10/8/23 9:45 PM,1,,Dining Room,,Dinner,,0.00,78.00,8.00,11.70,0.00,97.70,false,10/8/23 9:51 PM,10/8/23 9:51 PM,00:05:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005620037064,276,276,10/8/23 9:50 PM,1,,None,,Dinner,,0.00,48.00,4.92,0.00,0.00,52.92,false,10/8/23 9:51 PM,10/8/23 9:51 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005620046394,279,279,10/8/23 9:51 PM,1,,None,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/8/23 9:52 PM,10/8/23 9:52 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005620046797,280,280,10/8/23 9:51 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,2.00,0.00,39.48,false,10/8/23 9:52 PM,10/8/23 9:52 PM,00:00:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005620052843,278,278,10/8/23 9:51 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.53,2.25,0.00,18.78,false,10/8/23 9:52 PM,10/8/23 9:52 PM,00:01:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005620060055,277,277,10/8/23 9:50 PM,1,,Dining Room,,Dinner,,0.00,50.00,5.12,0.00,0.00,55.12,false,10/8/23 9:55 PM,10/8/23 9:55 PM,00:04:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005620061107,281,281,10/8/23 9:52 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/8/23 9:53 PM,10/8/23 9:53 PM,00:01:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005620063046,282,282,10/8/23 9:52 PM,1,,None,,Dinner,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/8/23 9:53 PM,10/8/23 9:53 PM,00:01:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005620068565,283,283,10/8/23 9:53 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.43,0.00,0.00,15.43,false,10/8/23 9:54 PM,10/8/23 9:54 PM,00:00:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005620068724,284,284,10/8/23 9:53 PM,1,,None,,Dinner,,0.00,14.00,1.44,2.10,0.00,17.54,false,10/8/23 9:54 PM,10/8/23 9:54 PM,00:00:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620074608,285,285,10/8/23 9:54 PM,1,,None,,Dinner,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/8/23 9:55 PM,10/8/23 9:55 PM,00:01:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620079709,287,287,10/8/23 9:54 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,4.40,0.00,26.45,false,10/8/23 9:55 PM,10/8/23 9:55 PM,00:01:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620090341,288,288,10/8/23 9:55 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.92,0.00,0.00,52.92,false,10/8/23 9:59 PM,10/8/23 9:59 PM,00:03:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005620096575,286,286,10/8/23 9:54 PM,1,,Dining Room,,Dinner,,0.00,70.00,7.17,50.00,0.00,127.17,false,10/8/23 9:58 PM,10/8/23 9:58 PM,00:03:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005620097120,289,289,10/8/23 9:55 PM,1,,None,,Dinner,,0.00,12.00,1.23,2.40,0.00,15.63,false,10/8/23 9:56 PM,10/8/23 9:56 PM,00:00:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005620102521,290,290,10/8/23 9:56 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,2.80,0.00,18.24,false,10/8/23 9:57 PM,10/8/23 9:57 PM,00:00:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005620106109,261,261,10/8/23 9:42 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 9:57 PM,10/8/23 9:57 PM,00:14:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005620111144,291,291,10/8/23 9:57 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.92,5.00,0.00,57.92,false,10/8/23 9:58 PM,10/8/23 9:58 PM,00:01:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005620125671,292,292,10/8/23 9:58 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.88,0.00,0.00,30.88,false,10/8/23 9:59 PM,10/8/23 9:59 PM,00:01:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620132518,293,293,10/8/23 9:58 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,3.60,0.00,30.06,false,10/8/23 9:59 PM,10/8/23 9:59 PM,00:00:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005620132655,294,294,10/8/23 9:59 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.88,5.60,0.00,36.48,false,10/8/23 11:12 PM,10/8/23 11:12 PM,01:12:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005620150778,299,299,10/8/23 10:00 PM,1,,Dining Room,,Dinner,,0.00,30.00,3.07,6.60,0.00,39.67,false,10/8/23 10:02 PM,10/8/23 10:02 PM,00:01:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005620153066,300,300,10/8/23 10:01 PM,1,,Dining Room,,Dinner,,0.00,22.00,2.26,3.30,0.00,27.56,false,10/8/23 10:01 PM,10/8/23 10:01 PM,00:00:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005620175674,303,303,10/8/23 10:03 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.88,4.20,0.00,35.08,false,10/8/23 10:09 PM,10/8/23 10:09 PM,00:05:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005620176609,302,302,10/8/23 10:02 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,1.95,0.00,16.28,false,10/8/23 10:04 PM,10/8/23 10:04 PM,00:01:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005620181556,298,298,10/8/23 10:00 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.92,8.40,0.00,61.32,false,10/8/23 10:05 PM,10/8/23 10:05 PM,00:04:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005620189143,304,304,10/8/23 10:04 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/8/23 10:05 PM,10/8/23 10:05 PM,00:00:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005620195335,305,305,10/8/23 10:05 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 10:06 PM,10/8/23 10:06 PM,00:01:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005620216417,307,307,10/8/23 10:06 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,2.00,0.00,39.48,false,10/8/23 10:08 PM,10/8/23 10:08 PM,00:01:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005620225347,306,306,10/8/23 10:05 PM,1,,Dining Room,,Dinner,,0.00,46.00,4.72,6.90,0.00,57.62,false,10/8/23 10:09 PM,10/8/23 10:09 PM,00:03:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005620228943,308,308,10/8/23 10:08 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.66,3.90,0.00,32.56,false,10/8/23 10:09 PM,10/8/23 10:09 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005620243248,297,297,10/8/23 10:00 PM,1,,Dining Room,,Dinner,,0.00,64.00,6.56,0.00,0.00,70.56,false,10/8/23 10:10 PM,10/8/23 10:10 PM,00:10:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005620247157,310,310,10/8/23 10:09 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,0.00,0.00,22.05,false,10/8/23 10:11 PM,10/8/23 10:11 PM,00:01:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005620251346,311,311,10/8/23 10:11 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,3.52,0.00,21.16,false,10/8/23 10:11 PM,10/8/23 10:11 PM,00:00:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005620259575,312,312,10/8/23 10:11 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,2.20,0.00,14.33,false,10/8/23 10:12 PM,10/8/23 10:12 PM,00:00:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005620271414,315,315,10/8/23 10:13 PM,1,,Dining Room,,Dinner,,0.00,68.00,6.97,13.60,0.00,88.57,false,10/8/23 10:14 PM,10/8/23 10:14 PM,00:01:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005620274920,314,314,10/8/23 10:11 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.86,0.00,17.19,false,10/8/23 10:16 PM,10/8/23 10:16 PM,00:04:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005620284312,316,316,10/8/23 10:13 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,5.70,0.00,47.60,false,10/8/23 10:15 PM,10/8/23 10:15 PM,00:02:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005620300829,317,317,10/8/23 10:15 PM,1,,Dining Room,,Dinner,,0.00,23.00,2.35,0.00,0.00,25.35,false,10/8/23 10:17 PM,10/8/23 10:17 PM,00:01:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005620300934,318,318,10/8/23 10:16 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 10:16 PM,10/8/23 10:16 PM,00:00:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005620305562,319,319,10/8/23 10:16 PM,1,,Dining Room,,Dinner,,0.00,42.00,4.30,5.00,0.00,51.30,false,10/8/23 10:17 PM,10/8/23 10:17 PM,00:01:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005620312909,321,321,10/8/23 10:17 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/8/23 10:18 PM,10/8/23 10:18 PM,00:01:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005620314891,322,322,10/8/23 10:17 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.66,2.00,0.00,30.66,false,10/8/23 10:18 PM,10/8/23 10:18 PM,00:00:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005620322827,323,323,10/8/23 10:18 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.92,9.60,0.00,62.52,false,10/8/23 10:19 PM,10/8/23 10:19 PM,00:00:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005620323320,320,320,10/8/23 10:17 PM,1,,Dining Room,,Dinner,,0.00,42.00,4.31,6.30,0.00,52.61,false,10/8/23 10:19 PM,10/8/23 10:19 PM,00:02:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005620332165,326,326,10/8/23 10:19 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.20,0.00,10.02,false,10/8/23 10:20 PM,10/8/23 10:20 PM,00:00:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005620336403,325,325,10/8/23 10:19 PM,1,,Dining Room,,Dinner,,0.00,72.00,7.38,10.80,0.00,90.18,false,10/8/23 11:06 PM,10/8/23 11:06 PM,00:46:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005620339024,324,324,10/8/23 10:19 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,0.80,0.00,5.21,false,10/8/23 10:22 PM,10/8/23 10:22 PM,00:02:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005620348476,328,328,10/8/23 10:20 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,5.10,0.00,42.58,false,10/8/23 10:24 PM,10/8/23 10:24 PM,00:03:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005620355681,327,327,10/8/23 10:20 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.23,2.40,0.00,15.63,false,10/8/23 10:22 PM,10/8/23 10:22 PM,00:02:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005620368238,329,329,10/8/23 10:21 PM,1,,Dining Room,,Dinner,,0.00,25.00,2.56,5.00,0.00,32.56,false,10/8/23 10:24 PM,10/8/23 10:24 PM,00:03:08,In Store
+3401 Harrisburg Boulevard Suite A,800000005620369348,331,331,10/8/23 10:23 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.66,5.72,0.00,34.38,false,10/8/23 10:25 PM,10/8/23 10:25 PM,00:01:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005620377919,333,333,10/8/23 10:24 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.20,0.00,10.02,false,10/8/23 10:25 PM,10/8/23 10:25 PM,00:00:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005620395987,330,330,10/8/23 10:23 PM,1,,Dining Room,,Dinner,,0.00,60.00,6.14,9.00,0.00,75.14,false,10/8/23 10:27 PM,10/8/23 10:27 PM,00:04:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005620400546,334,334,10/8/23 10:27 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.05,3.00,0.00,25.05,false,10/8/23 10:28 PM,10/8/23 10:28 PM,00:01:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005620410012,335,335,10/8/23 10:28 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/8/23 10:29 PM,10/8/23 10:29 PM,00:01:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005620412256,336,336,10/8/23 10:28 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/8/23 10:29 PM,10/8/23 10:29 PM,00:00:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005620412268,337,337,10/8/23 10:28 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,0.00,0.00,22.04,false,10/9/23 12:14 AM,10/9/23 12:14 AM,01:45:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005620420779,339,339,10/8/23 10:29 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,5.70,0.00,47.60,false,10/8/23 10:30 PM,10/8/23 10:30 PM,00:00:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005620428064,341,341,10/8/23 10:30 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/8/23 10:31 PM,10/8/23 10:31 PM,00:00:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005620435147,338,338,10/8/23 10:29 PM,1,,Dining Room,,Dinner,,9.30,10.70,1.10,4.00,0.00,15.80,false,10/8/23 10:32 PM,10/8/23 10:32 PM,00:03:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005620437662,340,340,10/8/23 10:30 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,0.00,0.00,22.04,false,10/8/23 10:32 PM,10/8/23 10:32 PM,00:01:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005620446712,342,342,10/8/23 10:32 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,0.00,0.00,15.44,false,10/8/23 10:34 PM,10/8/23 10:34 PM,00:01:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005620450728,343,343,10/8/23 10:33 PM,1,,Dining Room,,Dinner,,0.00,18.00,1.84,0.00,0.00,19.84,false,10/8/23 10:34 PM,10/8/23 10:34 PM,00:01:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005620450929,332,332,10/8/23 10:24 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,0.00,0.00,37.48,false,10/8/23 10:35 PM,10/8/23 10:35 PM,00:10:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005620455808,344,344,10/8/23 10:34 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,2.00,0.00,39.48,false,10/8/23 10:37 PM,10/8/23 10:37 PM,00:02:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005620467568,345,345,10/8/23 10:35 PM,1,,Dining Room,,Dinner,,0.00,26.00,2.66,5.20,0.00,33.86,false,10/8/23 10:36 PM,10/8/23 10:36 PM,00:00:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005620474320,346,346,10/8/23 10:36 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,2.40,0.00,20.04,false,10/8/23 10:37 PM,10/8/23 10:37 PM,00:00:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005620477064,347,347,10/8/23 10:37 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,5.60,0.00,36.47,false,10/8/23 10:37 PM,10/8/23 10:37 PM,00:00:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005620477302,348,348,10/8/23 10:37 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,2.80,0.00,18.24,false,10/8/23 10:38 PM,10/8/23 10:38 PM,00:00:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005620489219,350,350,10/8/23 10:38 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,0.80,0.00,5.21,false,10/8/23 10:39 PM,10/8/23 10:39 PM,00:00:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005620491404,349,349,10/8/23 10:37 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,0.00,0.00,41.90,false,10/8/23 10:41 PM,10/8/23 10:41 PM,00:03:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005620499900,352,352,10/8/23 10:39 PM,1,,Dining Room,,Dinner,,0.00,18.00,1.85,2.70,0.00,22.55,false,10/8/23 10:41 PM,10/8/23 10:41 PM,00:02:10,In Store
+3401 Harrisburg Boulevard Suite A,800000005620503627,351,351,10/8/23 10:39 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.23,0.00,0.00,13.23,false,10/8/23 10:40 PM,10/8/23 10:40 PM,00:01:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005620508012,353,353,10/8/23 10:41 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,3.08,0.00,18.52,false,10/8/23 10:41 PM,10/8/23 10:41 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005620509123,354,354,10/8/23 10:41 PM,1,,Dining Room,,Dinner,,0.00,38.00,3.90,0.00,0.00,41.90,false,10/8/23 10:42 PM,10/8/23 10:42 PM,00:00:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005620512133,355,355,10/8/23 10:41 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 10:42 PM,10/8/23 10:42 PM,00:00:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005620515655,357,357,10/8/23 10:42 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.86,0.00,17.19,false,10/8/23 10:42 PM,10/8/23 10:42 PM,00:00:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005620517488,356,356,10/8/23 10:42 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 10:43 PM,10/8/23 10:43 PM,00:01:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620526200,359,359,10/8/23 10:43 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.60,0.00,16.93,false,10/8/23 10:46 PM,10/8/23 10:46 PM,00:02:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005620527515,358,358,10/8/23 10:43 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,3.52,0.00,21.16,false,10/8/23 10:44 PM,10/8/23 10:44 PM,00:01:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005620538147,360,360,10/8/23 10:45 PM,1,,Dining Room,,Dinner,,0.00,46.00,4.72,0.00,0.00,50.72,false,10/8/23 10:46 PM,10/8/23 10:46 PM,00:00:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005620542341,362,362,10/8/23 10:46 PM,1,,Dining Room,,Dinner,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/8/23 10:46 PM,10/8/23 10:46 PM,00:00:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005620551261,361,361,10/8/23 10:46 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,5.00,0.00,10.51,false,10/8/23 10:48 PM,10/8/23 10:48 PM,00:01:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005620557358,365,365,10/8/23 10:48 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/8/23 10:49 PM,10/8/23 10:49 PM,00:00:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005620562303,363,363,10/8/23 10:47 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 10:51 PM,10/8/23 10:51 PM,00:04:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005620564202,366,366,10/8/23 10:48 PM,1,,Dining Room,,Dinner,,0.00,21.00,2.15,3.50,0.00,26.65,false,10/8/23 10:50 PM,10/8/23 10:50 PM,00:01:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005620568339,367,367,10/8/23 10:50 PM,1,,Dining Room,,Dinner,,0.00,34.00,3.48,2.00,0.00,39.48,false,10/8/23 10:51 PM,10/8/23 10:51 PM,00:01:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005620580203,369,369,10/8/23 10:51 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.53,3.30,0.00,19.83,false,10/8/23 10:53 PM,10/8/23 10:53 PM,00:01:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005620586450,370,370,10/8/23 10:53 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 10:53 PM,10/8/23 10:53 PM,00:00:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005620586465,371,371,10/8/23 10:53 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,1.10,0.00,6.61,false,10/8/23 10:58 PM,10/8/23 10:58 PM,00:05:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005620592040,368,368,10/8/23 10:51 PM,1,,Dining Room,,Dinner,,0.00,20.00,2.04,3.00,0.00,25.04,false,10/8/23 10:55 PM,10/8/23 10:55 PM,00:03:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005620594120,372,372,10/8/23 10:54 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 10:54 PM,10/8/23 10:54 PM,00:00:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005620600257,374,374,10/8/23 10:55 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,3.20,0.00,20.84,false,10/8/23 10:58 PM,10/8/23 10:58 PM,00:03:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005620601045,373,373,10/8/23 10:55 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 10:56 PM,10/8/23 10:56 PM,00:00:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005620603599,375,375,10/8/23 10:55 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.75,0.00,6.26,false,10/8/23 10:56 PM,10/8/23 10:56 PM,00:00:39,In Store
+3401 Harrisburg Boulevard Suite A,800000005620606868,364,364,10/8/23 10:48 PM,1,,None,,Dinner,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/8/23 10:56 PM,10/8/23 10:56 PM,00:08:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005620611024,376,376,10/8/23 10:56 PM,1,,Dining Room,,Dinner,,0.00,36.00,3.69,0.00,0.00,39.69,false,10/8/23 10:57 PM,10/8/23 10:57 PM,00:01:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005620613104,377,377,10/8/23 10:56 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,0.00,0.00,15.44,false,10/8/23 10:57 PM,10/8/23 10:57 PM,00:01:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005620616997,379,379,10/8/23 10:57 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 10:59 PM,10/8/23 10:59 PM,00:01:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005620617983,380,380,10/8/23 10:58 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/8/23 11:00 PM,10/8/23 11:00 PM,00:01:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005620629699,382,382,10/8/23 11:00 PM,1,,Dining Room,,,,0.00,20.00,2.05,4.00,0.00,26.05,false,10/8/23 11:00 PM,10/8/23 11:00 PM,00:00:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620631117,381,381,10/8/23 10:59 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 11:00 PM,10/8/23 11:00 PM,00:00:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005620635814,378,378,10/8/23 10:57 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.75,0.00,6.26,false,10/8/23 11:01 PM,10/8/23 11:01 PM,00:03:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005620638689,384,384,10/8/23 11:01 PM,1,,Dining Room,,,,0.00,14.00,1.44,2.80,0.00,18.24,false,10/8/23 11:02 PM,10/8/23 11:02 PM,00:00:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620639403,383,383,10/8/23 11:00 PM,1,,Dining Room,,,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/8/23 11:04 PM,10/8/23 11:04 PM,00:03:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005620652866,385,385,10/8/23 11:02 PM,1,,Dining Room,,,,0.00,20.00,2.05,4.00,0.00,26.05,false,10/8/23 11:04 PM,10/8/23 11:04 PM,00:02:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005620657123,386,386,10/8/23 11:04 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.20,0.00,10.02,false,10/8/23 11:05 PM,10/8/23 11:05 PM,00:00:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005620664333,388,388,10/8/23 11:05 PM,1,,Dining Room,,,,0.00,16.00,1.64,2.40,0.00,20.04,false,10/8/23 11:06 PM,10/8/23 11:06 PM,00:01:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005620673483,389,389,10/8/23 11:06 PM,1,,Dining Room,,,,0.00,16.00,1.64,2.40,0.00,20.04,false,10/8/23 11:08 PM,10/8/23 11:08 PM,00:02:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005620683081,387,387,10/8/23 11:04 PM,1,,Dining Room,,,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/8/23 11:10 PM,10/8/23 11:10 PM,00:05:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005620689861,390,390,10/8/23 11:08 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/8/23 11:11 PM,10/8/23 11:11 PM,00:03:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005620689908,391,391,10/8/23 11:10 PM,1,,Dining Room,,,,0.00,13.00,1.33,2.86,0.00,17.19,false,10/8/23 11:11 PM,10/8/23 11:11 PM,00:00:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005620691648,392,392,10/8/23 11:11 PM,1,,Dining Room,,,,0.00,5.00,0.51,1.10,0.00,6.61,false,10/8/23 11:12 PM,10/8/23 11:12 PM,00:00:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005620702770,394,394,10/8/23 11:13 PM,1,,Dining Room,,,,0.00,48.00,4.92,9.60,0.00,62.52,false,10/8/23 11:14 PM,10/8/23 11:14 PM,00:01:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005620708916,395,395,10/8/23 11:14 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/8/23 11:15 PM,10/8/23 11:15 PM,00:01:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005620715128,397,397,10/8/23 11:15 PM,1,,Dining Room,,,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 11:16 PM,10/8/23 11:16 PM,00:00:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005620722096,396,396,10/8/23 11:15 PM,1,,Dining Room,,,,0.00,35.00,3.59,7.00,0.00,45.59,false,10/8/23 11:19 PM,10/8/23 11:19 PM,00:03:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005620727897,399,399,10/8/23 11:19 PM,1,,Dining Room,,,,0.00,24.00,2.46,0.00,0.00,26.46,false,10/8/23 11:20 PM,10/8/23 11:20 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005620729569,398,398,10/8/23 11:16 PM,1,,Dining Room,,,,0.00,18.00,1.84,3.60,0.00,23.44,false,10/8/23 11:20 PM,10/8/23 11:20 PM,00:03:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620729838,400,400,10/8/23 11:19 PM,1,,Dining Room,,,,0.00,3.00,0.31,5.00,0.00,8.31,false,10/8/23 11:19 PM,10/8/23 11:19 PM,00:00:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620734731,402,402,10/8/23 11:20 PM,1,,Dining Room,,,,0.00,14.00,1.44,1.00,0.00,16.44,false,10/8/23 11:20 PM,10/8/23 11:20 PM,00:00:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005620740141,404,404,10/8/23 11:21 PM,1,,Dining Room,,,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/8/23 11:22 PM,10/8/23 11:22 PM,00:01:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005620747948,405,405,10/8/23 11:23 PM,1,,Dining Room,,,,0.00,10.00,1.02,1.00,0.00,12.02,false,10/8/23 11:23 PM,10/8/23 11:23 PM,00:00:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005620765788,406,406,10/8/23 11:24 PM,1,,Dining Room,,,,0.00,27.00,2.77,0.00,0.00,29.77,false,10/8/23 11:27 PM,10/8/23 11:27 PM,00:03:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005620766877,407,407,10/8/23 11:26 PM,1,,None,,,,0.00,22.00,2.26,0.00,0.00,24.26,false,10/8/23 11:27 PM,10/8/23 11:27 PM,00:01:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005620772526,409,409,10/8/23 11:28 PM,1,,Dining Room,,,,0.00,16.00,1.64,2.40,0.00,20.04,false,10/8/23 11:29 PM,10/8/23 11:29 PM,00:00:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005620778141,411,411,10/8/23 11:29 PM,1,,Dining Room,,,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/8/23 11:30 PM,10/8/23 11:30 PM,00:00:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005620782224,412,412,10/8/23 11:30 PM,1,,Dining Room,,,,0.00,15.00,1.54,3.00,0.00,19.54,false,10/8/23 11:34 PM,10/8/23 11:34 PM,00:03:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005620785034,408,408,10/8/23 11:27 PM,1,,None,,,,0.00,17.00,1.74,2.55,0.00,21.29,false,10/8/23 11:32 PM,10/8/23 11:32 PM,00:04:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005620797051,414,414,10/8/23 11:34 PM,1,,Dining Room,,,,0.00,13.00,1.33,2.86,0.00,17.19,false,10/8/23 11:41 PM,10/8/23 11:41 PM,00:06:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005620799395,410,410,10/8/23 11:29 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/8/23 11:35 PM,10/8/23 11:35 PM,00:06:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005620803054,413,413,10/8/23 11:32 PM,1,,None,,,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/8/23 11:36 PM,10/8/23 11:36 PM,00:04:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005620824491,415,415,10/8/23 11:35 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.20,0.00,10.02,false,10/8/23 11:41 PM,10/8/23 11:41 PM,00:06:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005620830779,418,418,10/8/23 11:42 PM,1,,Dining Room,,,,0.00,13.00,1.33,1.95,0.00,16.28,false,10/8/23 11:43 PM,10/8/23 11:43 PM,00:00:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005620832524,417,417,10/8/23 11:41 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/8/23 11:43 PM,10/8/23 11:43 PM,00:01:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005620837657,419,419,10/8/23 11:43 PM,1,,Dining Room,,,,0.00,8.00,0.82,5.00,0.00,13.82,false,10/8/23 11:48 PM,10/8/23 11:48 PM,00:05:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005620838165,420,420,10/8/23 11:44 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/8/23 11:44 PM,10/8/23 11:44 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005620852796,423,423,10/8/23 11:49 PM,1,,Dining Room,,,,2.00,6.00,0.62,1.60,0.00,8.22,false,10/8/23 11:50 PM,10/8/23 11:50 PM,00:01:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005620853044,422,422,10/8/23 11:48 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/8/23 11:49 PM,10/8/23 11:49 PM,00:00:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005620863690,424,424,10/8/23 11:51 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/8/23 11:52 PM,10/8/23 11:52 PM,00:01:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005620873590,425,425,10/8/23 11:52 PM,1,,Dining Room,,,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/8/23 11:55 PM,10/8/23 11:55 PM,00:02:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005620889551,426,426,10/8/23 11:55 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.80,0.00,5.21,false,10/9/23 12:00 AM,10/9/23 12:00 AM,00:05:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005620895558,427,427,10/9/23 12:00 AM,1,,Dining Room,,,,0.00,4.00,0.41,0.88,0.00,5.29,false,10/9/23 12:01 AM,10/9/23 12:01 AM,00:00:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005621080835,416,416,10/8/23 11:36 PM,1,,None,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/9/23 1:23 AM,10/9/23 1:23 AM,01:46:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005624611135,1,1,10/9/23 11:38 AM,1,,Dining Room,,,,13.80,32.20,3.30,0.00,0.00,35.50,false,10/9/23 11:53 AM,10/9/23 11:53 AM,00:15:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005626124613,2,2,10/9/23 12:19 PM,1,,Dining Room,,,,0.00,58.00,5.94,11.60,0.00,75.54,false,10/9/23 12:53 PM,10/9/23 12:53 PM,00:33:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005626168756,3,3,10/9/23 12:46 PM,1,,Dining Room,,,,0.00,16.00,1.64,2.40,0.00,20.04,false,10/9/23 12:47 PM,10/9/23 12:47 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005627272289,5,5,10/9/23 1:27 PM,1,,Dining Room,,,,6.74,57.26,5.89,12.80,0.00,75.95,false,10/9/23 1:33 PM,10/9/23 1:33 PM,00:05:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005628303821,7,7,10/9/23 2:17 PM,1,,Dining Room,,,,0.00,9.00,0.92,1.98,0.00,11.90,false,10/9/23 2:23 PM,10/9/23 2:23 PM,00:06:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005628384775,6,6,10/9/23 1:33 PM,1,,Dining Room,,,,0.00,28.00,2.87,2.00,0.00,32.87,false,10/9/23 2:22 PM,10/9/23 2:22 PM,00:48:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005628498456,9,9,10/9/23 2:22 PM,1,,Dining Room,,,,0.00,3.00,0.31,0.00,0.00,3.31,false,10/9/23 2:27 PM,10/9/23 2:27 PM,00:05:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005628537340,10,10,10/9/23 2:27 PM,1,,Dining Room,,,,0.00,19.00,1.94,2.00,0.00,22.94,false,10/9/23 2:30 PM,10/9/23 2:30 PM,00:02:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005628861272,8,8,10/9/23 2:17 PM,1,,None,,,,0.00,15.00,1.53,3.00,0.00,19.53,false,10/9/23 2:49 PM,10/9/23 2:49 PM,00:31:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005629270726,11,11,10/9/23 3:03 PM,1,,Dining Room,,,,0.00,19.00,1.95,4.18,0.00,25.13,false,10/9/23 3:05 PM,10/9/23 3:05 PM,00:01:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005629407148,13,13,10/9/23 3:11 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/9/23 3:17 PM,10/9/23 3:17 PM,00:05:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005629827779,14,14,10/9/23 3:32 PM,1,,Dining Room,,,,0.00,24.00,2.46,5.28,0.00,31.74,false,10/9/23 3:32 PM,10/9/23 3:32 PM,00:00:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005629869699,15,15,10/9/23 3:34 PM,1,,Dining Room,,,,0.00,19.00,1.95,3.80,0.00,24.75,false,10/9/23 3:41 PM,10/9/23 3:41 PM,00:06:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005630602713,16,16,10/9/23 4:08 PM,1,,Dining Room,,,,0.00,8.00,0.82,0.00,0.00,8.82,false,10/9/23 4:10 PM,10/9/23 4:10 PM,00:02:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005630840588,17,17,10/9/23 4:20 PM,1,,Dining Room,,,,13.00,0.00,0.00,0.00,0.00,0.00,false,10/9/23 11:57 PM,10/9/23 11:57 PM,07:37:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005631531431,19,19,10/9/23 4:47 PM,1,,None,,,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/9/23 11:57 PM,10/9/23 11:57 PM,07:09:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005631551369,18,18,10/9/23 4:20 PM,1,,Dining Room,,,,0.00,13.00,1.33,5.00,0.00,19.33,false,10/9/23 4:50 PM,10/9/23 4:50 PM,00:29:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005631614122,20,20,10/9/23 4:48 PM,1,,None,,,,0.00,19.00,1.95,0.00,0.00,20.95,false,10/9/23 4:58 PM,10/9/23 4:58 PM,00:09:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005631640263,21,21,10/9/23 4:52 PM,1,,Dining Room,,,,0.00,12.00,1.23,1.80,0.00,15.03,false,10/9/23 4:58 PM,10/9/23 4:58 PM,00:05:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005631832407,22,22,10/9/23 4:59 PM,1,,Dining Room,,,,0.00,13.00,1.33,0.00,0.00,14.33,false,10/9/23 5:00 PM,10/9/23 5:00 PM,00:01:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005632234360,23,23,10/9/23 5:13 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/9/23 5:14 PM,10/9/23 5:14 PM,00:00:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005632640124,25,25,10/9/23 5:24 PM,1,,Dining Room,,,,8.00,23.00,2.35,1.00,0.00,26.35,false,10/9/23 7:16 PM,10/9/23 7:16 PM,01:52:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005632793801,28,28,10/9/23 5:32 PM,1,,Dining Room,,,,8.00,42.00,4.32,11.00,0.00,57.32,false,10/9/23 6:19 PM,10/9/23 6:19 PM,00:47:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005632847351,30,30,10/9/23 5:34 PM,1,,None,,,,0.00,11.00,1.13,2.20,0.00,14.33,false,10/9/23 5:52 PM,10/9/23 5:52 PM,00:17:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005632863721,29,29,10/9/23 5:33 PM,1,,Dining Room,,,,8.00,24.00,2.46,0.00,0.00,26.46,false,10/9/23 5:35 PM,10/9/23 5:35 PM,00:02:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005633122104,34,34,10/9/23 5:40 PM,1,,Dining Room,,,,4.00,13.00,1.33,3.40,0.00,17.73,false,10/9/23 5:49 PM,10/9/23 5:49 PM,00:08:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005633302571,35,35,10/9/23 5:49 PM,1,,Dining Room,,,,0.00,36.00,3.69,7.92,0.00,47.61,false,10/9/23 6:54 PM,10/9/23 6:54 PM,01:05:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005633330045,36,36,10/9/23 5:49 PM,1,,Dining Room,,,,0.00,29.00,2.97,4.35,0.00,36.32,false,10/9/23 5:50 PM,10/9/23 5:50 PM,00:01:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005633492394,37,37,10/9/23 5:55 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.80,0.00,5.21,false,10/9/23 5:56 PM,10/9/23 5:56 PM,00:01:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005633576745,38,38,10/9/23 5:56 PM,1,,Dining Room,,,,4.00,14.00,1.44,2.70,0.00,18.14,false,10/9/23 5:59 PM,10/9/23 5:59 PM,00:02:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005633735055,39,39,10/9/23 6:03 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,1.00,0.00,5.41,false,10/9/23 6:09 PM,10/9/23 6:09 PM,00:06:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005633999579,33,33,10/9/23 5:35 PM,1,,Dining Room,,,,16.00,54.00,5.54,14.00,0.00,73.54,false,10/9/23 7:39 PM,10/9/23 7:39 PM,02:04:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005635369711,42,42,10/9/23 6:57 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,1.65,0.00,13.78,false,10/9/23 6:58 PM,10/9/23 6:58 PM,00:01:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005635400231,43,43,10/9/23 6:58 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/9/23 6:59 PM,10/9/23 6:59 PM,00:01:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005635600261,45,45,10/9/23 7:05 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,3.20,0.00,20.84,false,10/9/23 7:06 PM,10/9/23 7:06 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005635680169,46,46,10/9/23 7:08 PM,1,,Dining Room,,Dinner,,0.00,9.00,0.92,0.00,0.00,9.92,false,10/9/23 7:08 PM,10/9/23 7:08 PM,00:00:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005635886297,44,44,10/9/23 6:59 PM,1,,None,,Dinner,,0.00,16.00,1.64,3.20,0.00,20.84,false,10/9/23 7:16 PM,10/9/23 7:16 PM,00:17:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005636176570,50,50,10/9/23 7:27 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/9/23 7:28 PM,10/9/23 7:28 PM,00:00:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005636347564,51,51,10/9/23 7:33 PM,1,,Dining Room,,Dinner,,4.00,17.00,1.74,4.62,0.00,23.36,false,10/9/23 10:32 PM,10/9/23 10:32 PM,02:59:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005636667125,54,54,10/9/23 7:47 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,5.00,0.00,10.51,false,10/9/23 7:56 PM,10/9/23 7:56 PM,00:08:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005636798203,48,48,10/9/23 7:10 PM,1,,Dining Room,,Dinner,,8.00,20.00,2.05,5.60,0.00,27.65,false,10/9/23 7:53 PM,10/9/23 7:53 PM,00:43:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005636893117,47,47,10/9/23 7:08 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.23,2.64,0.00,15.87,false,10/9/23 8:02 PM,10/9/23 8:02 PM,00:54:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005637151943,55,55,10/9/23 8:07 PM,1,,Dining Room,,Dinner,,4.00,36.00,3.69,8.00,0.00,47.69,false,10/9/23 8:50 PM,10/9/23 8:50 PM,00:43:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005637515907,57,57,10/9/23 8:27 PM,1,,Dining Room,,Dinner,,8.00,16.00,1.64,2.00,0.00,19.64,false,10/9/23 8:28 PM,10/9/23 8:28 PM,00:01:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005638480746,53,53,10/9/23 7:42 PM,1,,None,,Dinner,,20.00,49.00,5.02,0.00,0.00,54.02,false,10/9/23 10:37 PM,10/9/23 10:37 PM,02:55:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005638794913,58,58,10/9/23 8:28 PM,1,,Dining Room,,Dinner,,4.00,10.00,1.02,3.08,0.00,14.10,false,10/9/23 10:11 PM,10/9/23 10:11 PM,01:42:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005642944442,4,4,10/10/23 11:47 AM,1,,Dining Room,,,,0.00,7.00,0.72,1.40,0.00,9.12,false,10/10/23 11:54 AM,10/10/23 11:54 AM,00:07:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005643237938,5,5,10/10/23 11:58 AM,1,,Dining Room,,,,0.00,11.00,1.13,0.00,0.00,12.13,false,10/10/23 12:22 PM,10/10/23 12:22 PM,00:24:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005643735998,1,1,10/10/23 10:30 AM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/10/23 12:17 PM,10/10/23 12:17 PM,01:46:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005644497294,6,6,10/10/23 12:47 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/10/23 12:48 PM,10/10/23 12:48 PM,00:00:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005644510984,7,7,10/10/23 12:48 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.60,0.00,5.01,false,10/10/23 12:48 PM,10/10/23 12:48 PM,00:00:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005645203020,8,8,10/10/23 1:18 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/10/23 1:19 PM,10/10/23 1:19 PM,00:00:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005645693455,9,9,10/10/23 1:39 PM,1,,Dining Room,,,,0.00,12.00,1.23,0.00,0.00,13.23,false,10/10/23 1:41 PM,10/10/23 1:41 PM,00:01:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005645713835,10,10,10/10/23 1:41 PM,1,,Dining Room,,,,0.00,12.00,1.23,0.00,0.00,13.23,false,10/10/23 1:43 PM,10/10/23 1:43 PM,00:01:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005647004994,11,11,10/10/23 1:43 PM,1,,Dining Room,,,,0.00,41.00,4.20,10.00,0.00,55.20,false,10/10/23 3:04 PM,10/10/23 3:04 PM,01:21:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005647456031,12,12,10/10/23 3:05 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.88,0.00,5.29,false,10/10/23 3:07 PM,10/10/23 3:07 PM,00:02:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005648247609,14,14,10/10/23 3:45 PM,1,,Dining Room,,,,0.00,7.00,0.72,0.00,0.00,7.72,false,10/10/23 4:32 PM,10/10/23 4:32 PM,00:46:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005648278214,15,15,10/10/23 3:47 PM,1,,Dining Room,,,,0.00,32.00,3.28,4.80,0.00,40.08,false,10/10/23 3:50 PM,10/10/23 3:50 PM,00:03:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005648539955,16,16,10/10/23 3:50 PM,1,,Dining Room,,,,4.00,0.00,0.00,0.00,0.00,0.00,false,10/10/23 4:34 PM,10/10/23 4:34 PM,00:43:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005649108100,18,18,10/10/23 4:23 PM,1,,None,,,,0.00,12.00,1.23,2.64,0.00,15.87,false,10/10/23 4:45 PM,10/10/23 4:45 PM,00:21:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005649205868,19,19,10/10/23 4:28 PM,1,,None,,,,0.00,14.00,1.44,0.00,0.00,15.44,false,10/10/23 4:35 PM,10/10/23 4:35 PM,00:07:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005649244277,20,20,10/10/23 4:29 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.80,0.00,5.21,false,10/10/23 4:30 PM,10/10/23 4:30 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005650748097,21,21,10/10/23 5:19 PM,1,,Dining Room,,,,0.00,33.00,3.38,6.60,0.00,42.98,false,10/10/23 5:20 PM,10/10/23 5:20 PM,00:00:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005651058604,22,22,10/10/23 5:28 PM,1,,Dining Room,,,,0.00,9.00,0.92,0.00,0.00,9.92,false,10/10/23 5:29 PM,10/10/23 5:29 PM,00:00:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005652570601,23,23,10/10/23 5:45 PM,1,,Dining Room,,,,0.00,32.00,3.27,0.00,0.00,35.27,false,10/10/23 6:10 PM,10/10/23 6:10 PM,00:25:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005655003183,24,24,10/10/23 7:16 PM,1,,Dining Room,,,,0.00,10.00,1.02,2.00,0.00,13.02,false,10/10/23 7:19 PM,10/10/23 7:19 PM,00:02:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005655181254,26,26,10/10/23 7:24 PM,1,,None,,,,0.00,37.00,3.79,7.40,0.00,48.19,false,10/10/23 8:25 PM,10/10/23 8:25 PM,01:00:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005655257767,25,25,10/10/23 7:19 PM,1,,Dining Room,,,,0.00,53.00,5.44,10.60,0.00,69.04,false,10/10/23 10:03 PM,10/10/23 10:03 PM,02:43:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005655444237,28,28,10/10/23 7:26 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/10/23 7:33 PM,10/10/23 7:33 PM,00:06:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005656597865,30,30,10/10/23 7:50 PM,1,,None,,,,0.00,12.00,1.23,2.40,0.00,15.63,false,10/10/23 8:47 PM,10/10/23 8:47 PM,00:56:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005656611194,31,31,10/10/23 8:15 PM,1,,None,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/10/23 8:17 PM,10/10/23 8:17 PM,00:01:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005656629119,32,32,10/10/23 8:16 PM,1,,Dining Room,,,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/10/23 8:18 PM,10/10/23 8:18 PM,00:01:08,In Store
+3401 Harrisburg Boulevard Suite A,800000005656835952,34,34,10/10/23 8:18 PM,1,,Dining Room,,,,0.00,9.00,0.92,1.35,0.00,11.27,false,10/10/23 9:06 PM,10/10/23 9:06 PM,00:48:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005656936408,29,29,10/10/23 7:33 PM,1,,Dining Room,,,,0.00,32.00,3.28,0.00,0.00,35.28,false,10/10/23 8:31 PM,10/10/23 8:31 PM,00:57:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005657021507,36,36,10/10/23 8:31 PM,1,,Dining Room,,,,7.00,0.00,0.00,0.00,0.00,0.00,false,10/10/23 8:35 PM,10/10/23 8:35 PM,00:03:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005657038863,38,38,10/10/23 8:35 PM,1,,None,,,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/10/23 11:57 PM,10/10/23 11:57 PM,03:21:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005657369994,39,39,10/10/23 8:36 PM,1,,None,,,,0.00,89.00,9.14,17.80,0.00,115.94,false,10/10/23 11:00 PM,10/10/23 11:00 PM,02:23:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005657395662,37,37,10/10/23 8:35 PM,1,,Dining Room,,,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/10/23 8:59 PM,10/10/23 8:59 PM,00:24:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005657507095,42,42,10/10/23 8:58 PM,1,,Dining Room,,,,0.00,57.00,5.84,11.40,0.00,74.24,false,10/10/23 9:05 PM,10/10/23 9:05 PM,00:06:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005657764896,43,43,10/10/23 9:11 PM,1,,None,,,,0.00,22.00,2.25,6.50,0.00,30.75,false,10/10/23 9:46 PM,10/10/23 9:46 PM,00:34:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005657807053,45,45,10/10/23 9:16 PM,1,,Dining Room,,,,0.00,61.00,6.25,13.42,0.00,80.67,false,10/10/23 9:18 PM,10/10/23 9:18 PM,00:02:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005657984886,46,46,10/10/23 9:29 PM,1,,Dining Room,,,,6.72,8.28,0.87,3.30,0.00,12.45,false,10/10/23 9:31 PM,10/10/23 9:31 PM,00:02:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005658031754,44,44,10/10/23 9:15 PM,1,,None,,,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/10/23 9:34 PM,10/10/23 9:34 PM,00:19:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005658469869,47,47,10/10/23 10:15 PM,1,,None,,,,0.00,20.00,2.05,4.00,0.00,26.05,false,10/10/23 10:22 PM,10/10/23 10:22 PM,00:06:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005664539752,3,3,10/11/23 12:40 PM,1,,None,,,,0.00,11.00,1.13,0.00,0.00,12.13,false,10/11/23 10:36 PM,10/11/23 10:36 PM,09:55:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005664699264,5,5,10/11/23 12:42 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/11/23 12:48 PM,10/11/23 12:48 PM,00:06:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005665050458,6,6,10/11/23 1:01 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.80,0.00,5.21,false,10/11/23 1:03 PM,10/11/23 1:03 PM,00:02:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005665082551,7,7,10/11/23 1:03 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/11/23 1:04 PM,10/11/23 1:04 PM,00:00:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005665120630,8,8,10/11/23 1:04 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/11/23 1:05 PM,10/11/23 1:05 PM,00:00:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005665154040,9,9,10/11/23 1:05 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.80,0.00,5.21,false,10/11/23 1:07 PM,10/11/23 1:07 PM,00:01:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005665170860,11,11,10/11/23 1:07 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.80,0.00,5.21,false,10/11/23 1:07 PM,10/11/23 1:07 PM,00:00:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005665667440,12,12,10/11/23 1:08 PM,1,,Dining Room,,,,0.00,19.00,1.95,4.18,0.00,25.13,false,10/11/23 1:30 PM,10/11/23 1:30 PM,00:22:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005665917238,14,14,10/11/23 1:30 PM,1,,Dining Room,,,,0.00,29.00,2.97,0.00,0.00,31.97,false,10/11/23 1:39 PM,10/11/23 1:39 PM,00:08:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005666627524,2,2,10/11/23 12:40 PM,1,,Dining Room,,,,0.00,4.00,0.41,1.00,0.00,5.41,false,10/11/23 2:10 PM,10/11/23 2:10 PM,01:29:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005667001967,15,15,10/11/23 2:26 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/11/23 2:27 PM,10/11/23 2:27 PM,00:00:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005667333990,16,16,10/11/23 2:41 PM,1,,Dining Room,,,,0.00,21.00,2.15,0.00,0.00,23.15,false,10/11/23 2:43 PM,10/11/23 2:43 PM,00:01:36,In Store
+3401 Harrisburg Boulevard Suite A,800000005667393005,17,17,10/11/23 2:44 PM,1,,Dining Room,,,,0.00,12.00,1.23,2.40,0.00,15.63,false,10/11/23 3:45 PM,10/11/23 3:45 PM,01:01:13,In Store
+3401 Harrisburg Boulevard Suite A,800000005667808144,18,18,10/11/23 3:03 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/11/23 3:05 PM,10/11/23 3:05 PM,00:02:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005667981310,19,19,10/11/23 3:13 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.60,0.00,5.01,false,10/11/23 3:14 PM,10/11/23 3:14 PM,00:01:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005668098854,20,20,10/11/23 3:19 PM,1,,Dining Room,,,,0.00,13.00,1.33,1.95,0.00,16.28,false,10/11/23 3:24 PM,10/11/23 3:24 PM,00:05:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005668450417,21,21,10/11/23 3:34 PM,1,,Dining Room,,,,0.00,25.00,2.56,5.00,0.00,32.56,false,10/11/23 3:36 PM,10/11/23 3:36 PM,00:01:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005668812079,22,22,10/11/23 3:52 PM,1,,Dining Room,,,,0.00,10.00,1.02,1.50,0.00,12.52,false,10/11/23 3:52 PM,10/11/23 3:52 PM,00:00:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005669574336,23,23,10/11/23 4:21 PM,1,,Dining Room,,,,0.00,21.00,2.15,0.00,0.00,23.15,false,10/11/23 4:23 PM,10/11/23 4:23 PM,00:01:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005671388954,24,24,10/11/23 4:24 PM,1,,Dining Room,,,,0.00,75.00,7.68,15.00,0.00,97.68,false,10/11/23 7:34 PM,10/11/23 7:34 PM,03:09:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005673441791,25,25,10/11/23 6:07 PM,1,,Dining Room,,,,0.00,12.00,1.23,2.64,0.00,15.87,false,10/11/23 6:08 PM,10/11/23 6:08 PM,00:00:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005674622634,27,27,10/11/23 6:36 PM,1,,Dining Room,,,,0.00,16.00,1.64,0.00,0.00,17.64,false,10/11/23 6:37 PM,10/11/23 6:37 PM,00:00:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005675857172,28,28,10/11/23 7:05 PM,1,,Dining Room,,,,0.00,32.00,3.27,4.80,0.00,40.07,false,10/11/23 7:32 PM,10/11/23 7:32 PM,00:27:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005677534077,30,30,10/11/23 7:34 PM,1,,Dining Room,,,,0.00,37.00,3.79,7.40,0.00,48.19,false,10/11/23 9:08 PM,10/11/23 9:08 PM,01:33:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005678035161,32,32,10/11/23 8:14 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/11/23 8:14 PM,10/11/23 8:14 PM,00:00:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005678088638,33,33,10/11/23 8:14 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/11/23 8:16 PM,10/11/23 8:16 PM,00:01:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005678109669,34,34,10/11/23 8:16 PM,1,,Dining Room,,,,0.00,35.00,3.58,7.70,0.00,46.28,false,10/11/23 9:27 PM,10/11/23 9:27 PM,01:11:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005678138969,31,31,10/11/23 7:35 PM,1,,Dining Room,,,,0.00,13.00,1.33,1.95,0.00,16.28,false,10/11/23 8:20 PM,10/11/23 8:20 PM,00:44:21,In Store
+3401 Harrisburg Boulevard Suite A,800000005679133516,36,36,10/11/23 8:24 PM,1,,Dining Room,,,,0.00,8.00,0.82,0.00,0.00,8.82,false,10/11/23 9:01 PM,10/11/23 9:01 PM,00:36:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005679186288,37,37,10/11/23 9:03 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/11/23 9:04 PM,10/11/23 9:04 PM,00:01:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005679668292,38,38,10/11/23 9:29 PM,1,,Dining Room,,,,0.00,22.00,2.26,5.00,0.00,29.26,false,10/11/23 10:18 PM,10/11/23 10:18 PM,00:48:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005679971372,40,40,10/11/23 9:44 PM,1,,None,,,,0.00,34.00,3.48,6.80,0.00,44.28,false,10/11/23 10:08 PM,10/11/23 10:08 PM,00:23:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005679991453,41,41,10/11/23 9:51 PM,1,,None,,,,0.00,17.00,1.74,0.00,0.00,18.74,false,10/11/23 10:11 PM,10/11/23 10:11 PM,00:19:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005680145958,42,42,10/11/23 9:57 PM,1,,None,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/11/23 10:05 PM,10/11/23 10:05 PM,00:08:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005680300247,44,44,10/11/23 10:20 PM,1,,None,,,,0.00,18.00,1.84,2.00,0.00,21.84,false,10/11/23 10:21 PM,10/11/23 10:21 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005686242149,1,1,10/12/23 12:20 PM,1,,Dining Room,,,,0.00,9.00,0.92,1.35,0.00,11.27,false,10/12/23 12:22 PM,10/12/23 12:22 PM,00:02:38,In Store
+3401 Harrisburg Boulevard Suite A,800000005686280930,2,2,10/12/23 12:21 PM,1,,None,,,,0.00,18.00,1.85,2.15,0.00,22.00,false,10/12/23 12:23 PM,10/12/23 12:23 PM,00:01:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005686302871,3,3,10/12/23 12:22 PM,1,,Dining Room,,,,0.00,18.00,1.85,3.96,0.00,23.81,false,10/12/23 12:43 PM,10/12/23 12:43 PM,00:21:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005686395367,6,6,10/12/23 12:25 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.20,0.00,10.02,false,10/12/23 12:26 PM,10/12/23 12:26 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005686804579,8,8,10/12/23 12:39 PM,1,,Dining Room,,,,0.00,9.00,0.92,0.00,0.00,9.92,false,10/12/23 12:40 PM,10/12/23 12:40 PM,00:01:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005686825818,9,9,10/12/23 12:41 PM,1,,Dining Room,,,,0.00,9.00,0.92,1.08,0.00,11.00,false,10/12/23 12:42 PM,10/12/23 12:42 PM,00:01:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005686995345,11,11,10/12/23 12:46 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.60,0.00,5.01,false,10/12/23 12:48 PM,10/12/23 12:48 PM,00:01:08,In Store
+3401 Harrisburg Boulevard Suite A,800000005687069934,12,12,10/12/23 12:49 PM,1,,Dining Room,,,,0.00,16.00,1.64,0.00,0.00,17.64,false,10/12/23 1:20 PM,10/12/23 1:20 PM,00:30:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005687464788,14,14,10/12/23 1:05 PM,1,,Dining Room,,,,0.00,12.00,1.23,1.80,0.00,15.03,false,10/12/23 1:37 PM,10/12/23 1:37 PM,00:32:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005688492738,4,4,10/12/23 12:22 PM,1,,None,,,,0.00,17.00,1.74,5.00,0.00,23.74,false,10/12/23 1:49 PM,10/12/23 1:49 PM,01:26:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005688686647,15,15,10/12/23 1:52 PM,1,,Dining Room,,,,0.00,19.00,1.94,5.00,0.00,25.94,false,10/12/23 2:32 PM,10/12/23 2:32 PM,00:40:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005689059336,16,16,10/12/23 2:08 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/12/23 2:14 PM,10/12/23 2:14 PM,00:05:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005689143426,17,17,10/12/23 2:12 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/12/23 2:13 PM,10/12/23 2:13 PM,00:01:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005689186009,19,19,10/12/23 2:14 PM,1,,Dining Room,,,,0.00,8.00,0.82,1.76,0.00,10.58,false,10/12/23 2:15 PM,10/12/23 2:15 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005689222791,20,20,10/12/23 2:15 PM,1,,Dining Room,,,,0.00,9.00,0.92,1.35,0.00,11.27,false,10/12/23 2:16 PM,10/12/23 2:16 PM,00:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005689645678,21,21,10/12/23 2:17 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/12/23 2:34 PM,10/12/23 2:34 PM,00:17:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005690100291,22,22,10/12/23 2:53 PM,1,,Dining Room,,,,0.00,10.00,1.03,0.00,0.00,11.03,false,10/12/23 2:55 PM,10/12/23 2:55 PM,00:01:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005690212082,23,23,10/12/23 2:59 PM,1,,Dining Room,,,,0.00,3.00,0.31,0.00,0.00,3.31,false,10/12/23 3:00 PM,10/12/23 3:00 PM,00:00:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005690730732,25,25,10/12/23 3:19 PM,1,,Dining Room,,,,0.00,29.00,2.97,0.00,0.00,31.97,false,10/12/23 3:41 PM,10/12/23 3:41 PM,00:22:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005690802616,26,26,10/12/23 3:24 PM,1,,Dining Room,,,,0.00,7.00,0.72,0.00,0.00,7.72,false,10/12/23 3:25 PM,10/12/23 3:25 PM,00:00:31,In Store
+3401 Harrisburg Boulevard Suite A,800000005690925035,27,27,10/12/23 3:30 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/12/23 3:30 PM,10/12/23 3:30 PM,00:00:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005693058275,28,28,10/12/23 3:42 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/12/23 4:47 PM,10/12/23 4:47 PM,01:04:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005693085854,29,29,10/12/23 4:45 PM,1,,None,,,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/12/23 4:47 PM,10/12/23 4:47 PM,00:01:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005693267198,30,30,10/12/23 4:51 PM,1,,None,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/12/23 4:56 PM,10/12/23 4:56 PM,00:04:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005694517283,31,31,10/12/23 5:21 PM,1,,None,,,,0.00,17.00,1.74,2.55,0.00,21.29,false,10/12/23 5:23 PM,10/12/23 5:23 PM,00:01:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005694791109,32,32,10/12/23 5:28 PM,1,,None,,,,0.00,27.00,2.76,5.94,0.00,35.70,false,10/12/23 5:45 PM,10/12/23 5:45 PM,00:17:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005694953581,34,34,10/12/23 5:31 PM,1,,Dining Room,,,,0.00,22.00,2.26,8.00,0.00,32.26,false,10/12/23 5:33 PM,10/12/23 5:33 PM,00:01:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005695925877,37,37,10/12/23 5:53 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/12/23 9:07 PM,10/12/23 9:07 PM,03:14:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005696146739,38,38,10/12/23 5:55 PM,1,,Dining Room,,,,0.00,16.00,1.64,3.52,0.00,21.16,false,10/12/23 5:58 PM,10/12/23 5:58 PM,00:02:51,In Store
+3401 Harrisburg Boulevard Suite A,800000005696206711,39,39,10/12/23 5:58 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.60,0.00,5.01,false,10/12/23 6:04 PM,10/12/23 6:04 PM,00:06:08,In Store
+3401 Harrisburg Boulevard Suite A,800000005696899799,40,40,10/12/23 6:13 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,0.75,0.00,6.26,false,10/12/23 6:13 PM,10/12/23 6:13 PM,00:00:35,In Store
+3401 Harrisburg Boulevard Suite A,800000005697200155,41,41,10/12/23 6:18 PM,1,,None,,Dinner,,0.00,13.00,1.33,2.60,0.00,16.93,false,10/12/23 7:26 PM,10/12/23 7:26 PM,01:08:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005697401993,43,43,10/12/23 6:22 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,2.25,0.00,18.79,false,10/12/23 6:24 PM,10/12/23 6:24 PM,00:01:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005697429621,44,44,10/12/23 6:23 PM,1,,Dining Room,,Dinner,,0.00,50.00,5.11,10.00,0.00,65.11,false,10/12/23 7:25 PM,10/12/23 7:25 PM,01:01:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005697593602,3001,3001,10/12/23 6:24 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.60,0.00,16.93,false,10/12/23 6:28 PM,10/12/23 6:28 PM,00:03:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005698742480,47,47,10/12/23 6:49 PM,1,,Dining Room,,Dinner,,0.00,27.00,2.77,5.40,0.00,35.17,false,10/12/23 8:44 PM,10/12/23 8:44 PM,01:54:22,In Store
+3401 Harrisburg Boulevard Suite A,800000005699063419,3002,3002,10/12/23 6:52 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.00,0.00,16.33,false,10/12/23 6:59 PM,10/12/23 6:59 PM,00:06:52,In Store
+3401 Harrisburg Boulevard Suite A,800000005699380646,49,49,10/12/23 6:59 PM,1,,Dining Room,,Dinner,,0.00,14.00,1.44,0.00,0.00,15.44,false,10/12/23 7:17 PM,10/12/23 7:17 PM,00:17:17,In Store
+3401 Harrisburg Boulevard Suite A,800000005700070155,50,50,10/12/23 7:17 PM,1,,Dining Room,,Dinner,,9.00,44.00,4.50,10.60,0.00,59.10,false,10/12/23 8:43 PM,10/12/23 8:43 PM,01:26:27,In Store
+3401 Harrisburg Boulevard Suite A,800000005700124250,46,46,10/12/23 6:24 PM,1,,Dining Room,,Dinner,,0.00,27.00,2.77,4.05,0.00,33.82,false,10/12/23 8:04 PM,10/12/23 8:04 PM,01:39:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005702138837,57,57,10/12/23 8:13 PM,1,,Dining Room,,Dinner,,0.00,21.00,2.15,3.15,0.00,26.30,false,10/12/23 9:33 PM,10/12/23 9:33 PM,01:20:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005702159199,58,58,10/12/23 8:15 PM,1,,Dining Room,,Dinner,,3.25,9.75,1.00,2.60,0.00,13.35,false,10/12/23 9:34 PM,10/12/23 9:34 PM,01:18:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005702232991,56,56,10/12/23 8:06 PM,1,,Dining Room,,Dinner,,5.75,17.25,1.77,5.06,0.00,24.08,false,10/12/23 8:18 PM,10/12/23 8:18 PM,00:12:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005702282567,60,60,10/12/23 8:18 PM,1,,Dining Room,,Dinner,,12.00,28.00,2.87,8.80,0.00,39.67,false,10/12/23 10:26 PM,10/12/23 10:26 PM,02:07:37,In Store
+3401 Harrisburg Boulevard Suite A,800000005702476578,61,61,10/12/23 8:19 PM,1,,Dining Room,,Dinner,,10.75,32.25,3.31,9.46,0.00,45.02,false,10/12/23 9:43 PM,10/12/23 9:43 PM,01:24:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005702608075,62,62,10/12/23 8:25 PM,1,,Dining Room,,Dinner,,68.00,0.00,0.00,0.00,0.00,0.00,false,10/13/23 12:25 AM,10/13/23 12:25 AM,04:00:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005702616461,59,59,10/12/23 8:16 PM,1,,Dining Room,,Dinner,,8.75,26.25,2.70,7.00,0.00,35.95,false,10/12/23 9:44 PM,10/12/23 9:44 PM,01:28:15,In Store
+3401 Harrisburg Boulevard Suite A,800000005702783445,65,65,10/12/23 8:34 PM,1,,None,,Dinner,,15.00,45.00,4.27,12.00,0.00,61.27,false,10/12/23 10:24 PM,10/12/23 10:24 PM,01:50:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005702847023,63,63,10/12/23 8:29 PM,1,,Dining Room,,Dinner,,0.00,17.00,1.74,2.55,0.00,21.29,false,10/12/23 9:16 PM,10/12/23 9:16 PM,00:46:58,In Store
+3401 Harrisburg Boulevard Suite A,800000005702991409,68,68,10/12/23 8:40 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/12/23 8:42 PM,10/12/23 8:42 PM,00:01:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005703000824,67,67,10/12/23 8:37 PM,1,,Dining Room,,Dinner,,10.50,31.50,3.22,8.40,0.00,43.12,false,10/12/23 8:43 PM,10/12/23 8:43 PM,00:05:53,In Store
+3401 Harrisburg Boulevard Suite A,800000005703745778,53,53,10/12/23 7:25 PM,1,,None,,Dinner,,3.50,20.50,2.11,4.80,0.00,27.41,false,10/12/23 10:25 PM,10/12/23 10:25 PM,03:00:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005703794547,70,70,10/12/23 9:10 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.23,1.80,0.00,15.03,false,10/12/23 9:13 PM,10/12/23 9:13 PM,00:03:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005703882134,74,74,10/12/23 9:13 PM,1,,Dining Room,,Dinner,,3.00,9.00,0.92,2.00,0.00,11.92,false,10/12/23 9:18 PM,10/12/23 9:18 PM,00:05:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005703949855,75,75,10/12/23 9:18 PM,1,,Dining Room,,Dinner,,3.25,9.75,1.00,1.95,0.00,12.70,false,10/12/23 9:20 PM,10/12/23 9:20 PM,00:01:23,In Store
+3401 Harrisburg Boulevard Suite A,800000005703990565,76,76,10/12/23 9:20 PM,1,,Dining Room,,Dinner,,2.25,6.75,0.70,1.35,0.00,8.80,false,10/12/23 9:22 PM,10/12/23 9:22 PM,00:01:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005704007877,73,73,10/12/23 9:12 PM,1,,Dining Room,,Dinner,,8.25,24.75,2.56,13.00,0.00,40.31,false,10/12/23 10:21 PM,10/12/23 10:21 PM,01:09:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005704150829,77,77,10/12/23 9:22 PM,1,,Dining Room,,Dinner,,2.50,7.50,0.78,1.50,0.00,9.78,false,10/12/23 9:29 PM,10/12/23 9:29 PM,00:06:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005704201022,80,80,10/12/23 9:31 PM,1,,Dining Room,,Dinner,,0.00,12.00,1.23,1.80,0.00,15.03,false,10/12/23 9:34 PM,10/12/23 9:34 PM,00:03:01,In Store
+3401 Harrisburg Boulevard Suite A,800000005704314428,82,82,10/12/23 9:35 PM,1,,Dining Room,,Dinner,,18.00,54.00,5.52,14.40,0.00,73.92,false,10/12/23 10:26 PM,10/12/23 10:26 PM,00:51:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005704451326,3003,3003,10/12/23 9:43 PM,1,,Dining Room,,Dinner,,1.00,3.00,0.31,1.00,0.00,4.31,false,10/12/23 9:44 PM,10/12/23 9:44 PM,00:01:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005704502364,87,87,10/12/23 9:46 PM,1,,None,,Dinner,,3.25,9.75,1.01,0.00,0.00,10.76,false,10/12/23 9:53 PM,10/12/23 9:53 PM,00:06:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005704503535,86,86,10/12/23 9:45 PM,1,,Dining Room,,Dinner,,4.75,14.25,1.48,3.80,0.00,19.53,false,10/12/23 9:47 PM,10/12/23 9:47 PM,00:02:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005704658635,91,91,10/12/23 9:54 PM,1,,Dining Room,,Dinner,,1.25,3.75,0.39,1.00,0.00,5.14,false,10/12/23 9:57 PM,10/12/23 9:57 PM,00:03:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005704675369,90,90,10/12/23 9:50 PM,1,,Dining Room,,Dinner,,0.00,32.00,3.28,0.00,0.00,35.28,false,10/12/23 9:57 PM,10/12/23 9:57 PM,00:06:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005704845229,97,97,10/12/23 10:06 PM,1,,None,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/12/23 10:08 PM,10/12/23 10:08 PM,00:01:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005704949067,3004,3004,10/12/23 10:14 PM,1,,Dining Room,,Dinner,,4.80,11.20,1.16,3.20,0.00,15.56,false,10/12/23 10:45 PM,10/12/23 10:45 PM,00:30:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005704964210,101,101,10/12/23 10:15 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/12/23 10:16 PM,10/12/23 10:16 PM,00:01:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005704987329,102,102,10/12/23 10:17 PM,1,,Dining Room,,Dinner,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/12/23 10:18 PM,10/12/23 10:18 PM,00:01:10,In Store
+3401 Harrisburg Boulevard Suite A,800000005705008906,103,103,10/12/23 10:19 PM,1,,Dining Room,,Dinner,,0.00,9.00,0.92,0.00,0.00,9.92,false,10/12/23 10:20 PM,10/12/23 10:20 PM,00:01:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005705069316,104,104,10/12/23 10:22 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,3.00,0.00,19.54,false,10/12/23 10:24 PM,10/12/23 10:24 PM,00:01:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005705107805,105,105,10/12/23 10:24 PM,1,,Dining Room,,Dinner,,0.00,35.00,3.59,7.70,0.00,46.29,false,10/12/23 11:24 PM,10/12/23 11:24 PM,01:00:04,In Store
+3401 Harrisburg Boulevard Suite A,800000005705145637,107,107,10/12/23 10:28 PM,1,,None,,Dinner,,0.00,17.00,1.74,2.55,0.00,21.29,false,10/12/23 10:30 PM,10/12/23 10:30 PM,00:02:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005705204722,106,106,10/12/23 10:27 PM,1,,Dining Room,,Dinner,,3.90,9.10,0.93,2.86,0.00,12.89,false,10/12/23 10:47 PM,10/12/23 10:47 PM,00:20:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005705221701,109,109,10/12/23 10:33 PM,1,,None,,Dinner,,0.00,8.00,0.82,3.00,0.00,11.82,false,10/12/23 10:37 PM,10/12/23 10:37 PM,00:03:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005705349175,112,112,10/12/23 10:47 PM,1,,Dining Room,,Dinner,,0.00,4.00,0.41,1.00,0.00,5.41,false,10/12/23 10:51 PM,10/12/23 10:51 PM,00:03:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005705404678,113,113,10/12/23 10:51 PM,1,,Dining Room,,Dinner,,0.00,27.00,2.77,5.40,0.00,35.17,false,10/12/23 10:53 PM,10/12/23 10:53 PM,00:02:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005705415263,114,114,10/12/23 10:53 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/12/23 10:54 PM,10/12/23 10:54 PM,00:01:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005705487994,115,115,10/12/23 11:00 PM,1,,Dining Room,,,,0.00,17.00,1.74,3.74,0.00,22.48,false,10/12/23 11:05 PM,10/12/23 11:05 PM,00:04:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005705594179,116,116,10/12/23 11:14 PM,1,,Dining Room,,,,0.00,9.00,0.92,0.00,0.00,9.92,false,10/12/23 11:20 PM,10/12/23 11:20 PM,00:06:10,In Store
+3401 Harrisburg Boulevard Suite A,800000005705640872,117,117,10/12/23 11:20 PM,1,,Dining Room,,,,2.00,6.00,0.62,1.76,0.00,8.38,false,10/12/23 11:24 PM,10/12/23 11:24 PM,00:03:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005705733822,118,118,10/12/23 11:31 PM,1,,Dining Room,,,,0.00,15.00,1.54,2.25,0.00,18.79,false,10/12/23 11:35 PM,10/12/23 11:35 PM,00:03:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005705793325,3005,3005,10/12/23 11:42 PM,1,,Dining Room,,,,0.00,4.00,0.41,0.00,0.00,4.41,false,10/12/23 11:42 PM,10/12/23 11:42 PM,00:00:14,In Store
+3401 Harrisburg Boulevard Suite A,800000005711911260,1,1,10/13/23 12:08 PM,1,,Dining Room,,,,0.00,28.00,2.87,0.00,0.00,30.87,false,10/13/23 12:10 PM,10/13/23 12:10 PM,00:01:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005712682895,2,2,10/13/23 12:10 PM,1,,Dining Room,,,,0.00,23.00,2.35,5.06,0.00,30.41,false,10/13/23 1:24 PM,10/13/23 1:24 PM,01:14:03,In Store
+3401 Harrisburg Boulevard Suite A,800000005713058046,3,3,10/13/23 12:31 PM,1,,Dining Room,,,,0.00,15.00,1.54,0.00,0.00,16.54,false,10/13/23 12:42 PM,10/13/23 12:42 PM,00:10:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005713092664,4,4,10/13/23 12:43 PM,1,,Dining Room,,,,0.00,12.00,1.23,2.64,0.00,15.87,false,10/13/23 1:43 PM,10/13/23 1:43 PM,01:00:19,In Store
+3401 Harrisburg Boulevard Suite A,800000005713304770,6,6,10/13/23 12:48 PM,1,,Dining Room,,,,0.00,12.00,1.23,1.00,0.00,14.23,false,10/13/23 12:50 PM,10/13/23 12:50 PM,00:02:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005713547234,7,7,10/13/23 12:56 PM,1,,Dining Room,,,,0.00,5.00,0.51,1.00,0.00,6.51,false,10/13/23 1:05 PM,10/13/23 1:05 PM,00:08:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005713855243,8,8,10/13/23 1:03 PM,1,,Dining Room,,,,0.00,78.00,7.98,17.16,0.00,103.14,false,10/13/23 3:39 PM,10/13/23 3:39 PM,02:35:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005714142818,9,9,10/13/23 1:06 PM,1,,Dining Room,,,,0.00,19.00,1.94,4.18,0.00,25.12,false,10/13/23 3:16 PM,10/13/23 3:16 PM,02:09:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005714839719,10,10,10/13/23 1:36 PM,1,,Dining Room,,,,0.00,9.00,0.92,1.35,0.00,11.27,false,10/14/23 12:11 AM,10/14/23 12:11 AM,10:35:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005714919036,11,11,10/13/23 1:38 PM,1,,Dining Room,,,,0.00,19.00,1.94,5.00,0.00,25.94,false,10/13/23 2:00 PM,10/13/23 2:00 PM,00:21:29,In Store
+3401 Harrisburg Boulevard Suite A,800000005714973785,12,12,10/13/23 1:40 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/13/23 1:41 PM,10/13/23 1:41 PM,00:01:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005715056775,14,14,10/13/23 1:43 PM,1,,Dining Room,,,,0.00,11.00,1.13,1.00,0.00,13.13,false,10/13/23 1:45 PM,10/13/23 1:45 PM,00:01:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005715123919,15,15,10/13/23 1:45 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/13/23 1:46 PM,10/13/23 1:46 PM,00:01:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005715144495,16,16,10/13/23 1:46 PM,1,,Dining Room,,,,0.00,3.00,0.31,0.00,0.00,3.31,false,10/13/23 1:47 PM,10/13/23 1:47 PM,00:00:16,In Store
+3401 Harrisburg Boulevard Suite A,800000005715207699,17,17,10/13/23 1:48 PM,1,,Dining Room,,,,0.00,5.00,0.51,0.00,0.00,5.51,false,10/13/23 1:49 PM,10/13/23 1:49 PM,00:00:34,In Store
+3401 Harrisburg Boulevard Suite A,800000005715625005,19,19,10/13/23 2:00 PM,1,,Dining Room,,,,0.00,25.00,2.56,3.75,0.00,31.31,false,10/13/23 5:57 PM,10/13/23 5:57 PM,03:57:10,In Store
+3401 Harrisburg Boulevard Suite A,800000005715735430,18,18,10/13/23 1:52 PM,1,,Dining Room,,,,0.00,4.00,0.41,1.00,0.00,5.41,false,10/13/23 2:06 PM,10/13/23 2:06 PM,00:14:26,In Store
+3401 Harrisburg Boulevard Suite A,800000005716822071,20,20,10/13/23 2:03 PM,1,,Dining Room,,,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/13/23 2:42 PM,10/13/23 2:42 PM,00:39:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005716966962,22,22,10/13/23 2:46 PM,1,,Dining Room,,,,0.00,52.00,5.33,0.00,0.00,57.33,false,10/13/23 2:48 PM,10/13/23 2:48 PM,00:01:44,In Store
+3401 Harrisburg Boulevard Suite A,800000005717021018,23,23,10/13/23 2:48 PM,1,,Dining Room,,,,0.00,10.00,1.02,0.00,0.00,11.02,false,10/13/23 2:49 PM,10/13/23 2:49 PM,00:01:30,In Store
+3401 Harrisburg Boulevard Suite A,800000005719645490,25,25,10/13/23 4:09 PM,1,,Dining Room,,,,3.00,9.00,0.92,2.40,0.00,12.32,false,10/13/23 4:11 PM,10/13/23 4:11 PM,00:01:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005719712003,26,26,10/13/23 4:11 PM,1,,Dining Room,,,,2.25,6.75,0.70,1.35,0.00,8.80,false,10/13/23 4:14 PM,10/13/23 4:14 PM,00:03:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005722274335,27,27,10/13/23 4:14 PM,1,,Dining Room,,,,4.25,27.75,2.85,4.80,0.00,35.40,false,10/13/23 5:47 PM,10/13/23 5:47 PM,01:33:00,In Store
+3401 Harrisburg Boulevard Suite A,800000005722697607,29,29,10/13/23 5:13 PM,1,,Dining Room,,,,1.00,3.00,0.31,0.00,0.00,3.31,false,10/13/23 5:14 PM,10/13/23 5:14 PM,00:00:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005724201033,31,31,10/13/23 5:36 PM,1,,Dining Room,,,,4.50,13.50,1.40,3.96,0.00,18.86,false,10/13/23 5:45 PM,10/13/23 5:45 PM,00:08:24,In Store
+3401 Harrisburg Boulevard Suite A,800000005724640312,32,32,10/13/23 5:45 PM,1,,Dining Room,,,,2.00,6.00,0.62,2.00,0.00,8.62,false,10/13/23 5:46 PM,10/13/23 5:46 PM,00:01:25,In Store
+3401 Harrisburg Boulevard Suite A,800000005725265706,34,34,10/13/23 5:53 PM,1,,None,,,,0.00,40.00,4.10,8.00,0.00,52.10,false,10/13/23 6:18 PM,10/13/23 6:18 PM,00:25:12,In Store
+3401 Harrisburg Boulevard Suite A,800000005725371732,35,35,10/13/23 5:54 PM,1,,Dining Room,,,,6.25,32.75,3.37,7.80,0.00,43.92,false,10/13/23 6:29 PM,10/13/23 6:29 PM,00:35:06,In Store
+3401 Harrisburg Boulevard Suite A,800000005725949318,38,38,10/13/23 6:04 PM,1,,Dining Room,,Dinner,,0.00,7.00,0.72,1.40,0.00,9.12,false,10/13/23 6:06 PM,10/13/23 6:06 PM,00:02:07,In Store
+3401 Harrisburg Boulevard Suite A,800000005726327195,37,37,10/13/23 5:57 PM,1,,Dining Room,,,,0.00,23.00,2.36,3.45,0.00,28.81,false,10/13/23 6:12 PM,10/13/23 6:12 PM,00:14:50,In Store
+3401 Harrisburg Boulevard Suite A,800000005726583058,40,40,10/13/23 6:12 PM,1,,Dining Room,,Dinner,,0.00,73.00,7.48,10.95,0.00,91.43,false,10/13/23 6:14 PM,10/13/23 6:14 PM,00:02:40,In Store
+3401 Harrisburg Boulevard Suite A,800000005726639533,41,41,10/13/23 6:15 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,1.60,0.00,10.42,false,10/13/23 6:15 PM,10/13/23 6:15 PM,00:00:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005726981055,42,42,10/13/23 6:18 PM,1,,Dining Room,,Dinner,,0.00,11.00,1.13,0.00,0.00,12.13,false,10/13/23 6:20 PM,10/13/23 6:20 PM,00:02:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005727109438,44,44,10/13/23 6:22 PM,1,,Dining Room,,Dinner,,0.00,92.00,9.18,10.00,0.00,111.18,false,10/13/23 11:33 PM,10/13/23 11:33 PM,05:11:32,In Store
+3401 Harrisburg Boulevard Suite A,800000005728067480,46,46,10/13/23 6:35 PM,1,,Dining Room,,Dinner,,0.00,52.00,5.33,10.40,0.00,67.73,false,10/13/23 7:23 PM,10/13/23 7:23 PM,00:47:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005728964193,3001,3001,10/13/23 6:36 PM,1,,Dining Room,,Dinner,,0.00,17.00,1.74,2.55,0.00,21.29,false,10/13/23 6:50 PM,10/13/23 6:50 PM,00:14:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005729383245,48,48,10/13/23 6:55 PM,1,,Dining Room,,Dinner,,0.40,3.60,0.38,2.00,0.00,5.98,false,10/13/23 6:56 PM,10/13/23 6:56 PM,00:01:18,In Store
+3401 Harrisburg Boulevard Suite A,800000005729656417,45,45,10/13/23 6:22 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/13/23 7:31 PM,10/13/23 7:31 PM,01:08:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005729680729,49,49,10/13/23 7:00 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/13/23 7:31 PM,10/13/23 7:31 PM,00:30:20,In Store
+3401 Harrisburg Boulevard Suite A,800000005729910294,51,51,10/13/23 7:03 PM,1,,Dining Room,,Dinner,,0.00,31.00,3.17,6.20,0.00,40.37,false,10/13/23 7:44 PM,10/13/23 7:44 PM,00:40:57,In Store
+3401 Harrisburg Boulevard Suite A,800000005731083552,52,52,10/13/23 7:20 PM,1,,Dining Room,,Dinner,,0.00,156.00,15.98,23.40,0.00,195.38,false,10/13/23 8:38 PM,10/13/23 8:38 PM,01:17:45,In Store
+3401 Harrisburg Boulevard Suite A,800000005731178958,53,53,10/13/23 7:22 PM,1,,Dining Room,,Dinner,,0.00,74.00,7.58,11.10,0.00,92.68,false,10/13/23 8:36 PM,10/13/23 8:36 PM,01:14:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005732528056,60,60,10/13/23 7:44 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/13/23 7:46 PM,10/13/23 7:46 PM,00:01:54,In Store
+3401 Harrisburg Boulevard Suite A,800000005734058237,61,61,10/13/23 7:46 PM,1,,Dining Room,,Dinner,,0.00,8.00,0.82,0.00,0.00,8.82,false,10/13/23 8:15 PM,10/13/23 8:15 PM,00:29:02,In Store
+3401 Harrisburg Boulevard Suite A,800000005734181381,65,65,10/13/23 8:15 PM,1,,Dining Room,,Dinner,,0.00,17.00,1.74,3.74,0.00,22.48,false,10/13/23 9:12 PM,10/13/23 9:12 PM,00:56:46,In Store
+3401 Harrisburg Boulevard Suite A,800000005734279960,66,66,10/13/23 8:16 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,4.80,0.00,31.26,false,10/13/23 8:54 PM,10/13/23 8:54 PM,00:37:48,In Store
+3401 Harrisburg Boulevard Suite A,800000005734533357,67,67,10/13/23 8:19 PM,1,,Dining Room,,Dinner,,0.00,56.00,5.74,8.26,0.00,70.00,false,10/13/23 8:25 PM,10/13/23 8:25 PM,00:06:09,In Store
+3401 Harrisburg Boulevard Suite A,800000005734715691,58,58,10/13/23 7:25 PM,1,,Dining Room,,Dinner,,0.00,24.00,2.46,3.60,0.00,30.06,false,10/13/23 8:34 PM,10/13/23 8:34 PM,01:08:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005735333621,68,68,10/13/23 8:38 PM,1,,Dining Room,,Dinner,,0.00,73.00,7.49,14.60,0.00,95.09,false,10/13/23 9:28 PM,10/13/23 9:28 PM,00:49:55,In Store
+3401 Harrisburg Boulevard Suite A,800000005735572769,62,62,10/13/23 7:54 PM,1,,None,,Dinner,,0.00,18.00,1.84,2.70,0.00,22.54,false,10/13/23 8:45 PM,10/13/23 8:45 PM,00:51:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005735685174,70,70,10/13/23 8:46 PM,1,,Dining Room,,Dinner,,0.00,10.00,1.02,2.20,0.00,13.22,false,10/13/23 8:52 PM,10/13/23 8:52 PM,00:06:47,In Store
+3401 Harrisburg Boulevard Suite A,800000005736542506,72,72,10/13/23 9:06 PM,1,,Dining Room,,Dinner,,0.00,48.00,4.91,9.60,0.00,62.51,false,10/13/23 11:21 PM,10/13/23 11:21 PM,02:14:56,In Store
+3401 Harrisburg Boulevard Suite A,800000005736635273,73,73,10/13/23 9:07 PM,1,,Dining Room,,Dinner,,0.00,16.00,1.64,3.20,0.00,20.84,false,10/13/23 9:10 PM,10/13/23 9:10 PM,00:02:42,In Store
+3401 Harrisburg Boulevard Suite A,800000005737054640,75,75,10/13/23 9:13 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.54,3.00,0.00,19.54,false,10/13/23 10:47 PM,10/13/23 10:47 PM,01:33:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005737109682,76,76,10/13/23 9:21 PM,1,,Dining Room,,Dinner,,0.00,15.00,1.53,3.00,0.00,19.53,false,10/13/23 10:46 PM,10/13/23 10:46 PM,01:25:33,In Store
+3401 Harrisburg Boulevard Suite A,800000005737252105,64,64,10/13/23 7:57 PM,1,,None,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,false,10/13/23 11:37 PM,10/13/23 11:37 PM,03:39:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005738441831,77,77,10/13/23 10:02 PM,1,,Dining Room,,Dinner,,0.00,13.00,1.33,2.60,0.00,16.93,false,10/13/23 10:58 PM,10/13/23 10:58 PM,00:56:10,In Store
+3401 Harrisburg Boulevard Suite A,800000005738453838,78,78,10/13/23 10:02 PM,1,,Dining Room,,Dinner,,0.00,44.00,4.52,8.80,0.00,57.32,false,10/13/23 11:23 PM,10/13/23 11:23 PM,01:20:59,In Store
+3401 Harrisburg Boulevard Suite A,800000005738642852,5001,5001,10/13/23 10:02 PM,1,,Dining Room,,Dinner,,0.00,0.00,0.00,0.00,0.00,0.00,true,10/14/23 12:12 AM,10/14/23 12:12 AM,02:10:43,In Store
+3401 Harrisburg Boulevard Suite A,800000005739518030,80,80,10/13/23 10:44 PM,1,,Dining Room,,Dinner,,0.00,50.00,5.12,11.00,0.00,66.12,false,10/14/23 12:01 AM,10/14/23 12:01 AM,01:17:28,In Store
+3401 Harrisburg Boulevard Suite A,800000005740155321,82,82,10/13/23 11:18 PM,1,,Dining Room,,,,0.00,28.00,2.87,5.60,0.00,36.47,false,10/13/23 11:19 PM,10/13/23 11:19 PM,00:01:05,In Store
+3401 Harrisburg Boulevard Suite A,800000005740202625,9001,9001,10/13/23 8:46 PM,1,,None,,Dinner,,0.00,34.00,3.48,5.10,0.00,42.58,false,10/13/23 11:23 PM,10/13/23 11:23 PM,02:36:49,In Store
+3401 Harrisburg Boulevard Suite A,800000005740730319,84,84,10/13/23 11:27 PM,1,,Dining Room,,,,0.00,7.00,0.72,1.40,0.00,9.12,false,10/13/23 11:57 PM,10/13/23 11:57 PM,00:30:11,In Store
+3401 Harrisburg Boulevard Suite A,800000005740737913,85,85,10/13/23 11:57 PM,1,,Dining Room,,,,0.00,7.00,0.72,1.54,0.00,9.26,false,10/13/23 11:58 PM,10/13/23 11:58 PM,00:00:41,In Store
+3401 Harrisburg Boulevard Suite A,800000005740747133,86,86,10/13/23 11:58 PM,1,,Dining Room,,,,0.00,7.00,0.72,1.40,0.00,9.12,false,10/13/23 11:59 PM,10/13/23 11:59 PM,00:00:49,In Store
